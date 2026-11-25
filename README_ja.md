@@ -40,6 +40,8 @@
 
 - **2026-11-25** · Video Prompt Gallery に移行し、出典を確認した事例を追加しました。
 
+- **2026-11-25** · 出典を確認した10事例と公開プロンプト2件を追加しました。
+
 <a id="menu"></a>
 
 ## 📑 目次
@@ -47,9 +49,9 @@
 - [はじめに](#introduction)
 - [クイックスタート](#quick-start)
 - [更新情報](#news)
-- [🎬 動画とアニメーション](#video-and-animation) (13)
-- [🎮 3Dゲーム](#3d-games) (3)
-- [🧊 3Dシーンとシミュレーション](#3d-scenes-and-simulations) (7)
+- [🎬 動画とアニメーション](#video-and-animation) (18)
+- [🎮 3Dゲーム](#3d-games) (4)
+- [🧊 3Dシーンとシミュレーション](#3d-scenes-and-simulations) (11)
 - [関連リポジトリ](#related-repositories)
 - [謝辞](#acknowledge)
 
@@ -80,8 +82,13 @@
 </tr>
 <tr>
 <td width="33%" valign="top"><a id="case-23"></a><a href="prompts/ja/world-inside-a-watch.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125284651417645056/img/euIEhADK6eB7hk2z.jpg" alt="腕時計の中の世界" width="100%"></a><br><a href="https://x.com/RezAIT00/status/2125285225769164985"><b>腕時計の中の世界</b></a><br><sub><a href="https://x.com/RezAIT00">@RezAIT00</a> · <a href="prompts/ja/world-inside-a-watch.md">デモ</a></sub></td>
-<td width="33%" valign="top"></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top"><a id="case-24"></a><a href="prompts/ja/single-file-music-animation.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125514262726729728/img/2V8P7VI47XpsNOzS.jpg" alt="単一ファイルの音楽アニメーション" width="100%"></a><br><a href="https://x.com/notjazii/status/2125517704031621562"><b>単一ファイルの音楽アニメーション</b></a><br><sub><a href="https://x.com/notjazii">@notjazii</a> · <a href="prompts/ja/single-file-music-animation.md">デモ</a></sub></td>
+<td width="33%" valign="top"><a id="case-27"></a><a href="prompts/ja/new-york-voxel-history.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125362877443760128/img/7VBugZ6L8V63tNL9.jpg" alt="ボクセルで見るニューヨークの400年" width="100%"></a><br><a href="https://x.com/LeeLinAI123/status/2125362983278682164"><b>ボクセルで見るニューヨークの400年</b></a><br><sub><a href="https://x.com/LeeLinAI123">@LeeLinAI123</a> · <a href="prompts/ja/new-york-voxel-history.md">デモ</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a id="case-28"></a><a href="prompts/ja/running-cow-animation.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125141229705052160/img/No1-jUsTibX5oIQi.jpg" alt="走る牛のアニメーション" width="100%"></a><br><a href="https://x.com/GKev1n/status/2125159991808061883"><b>走る牛のアニメーション</b></a><br><sub><a href="https://x.com/GKev1n">@GKev1n</a> · <a href="prompts/ja/running-cow-animation.md">デモ</a></sub></td>
+<td width="33%" valign="top"><a id="case-29"></a><a href="prompts/ja/pelican-bmx-1980s-town.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125507196993875968/img/0KyUPzj9lO6yBfmK.jpg" alt="80年代の町をBMXで走るペリカン" width="100%"></a><br><a href="https://x.com/RUTURAJ_ROCks/status/2125507492549710189"><b>80年代の町をBMXで走るペリカン</b></a><br><sub><a href="https://x.com/RUTURAJ_ROCks">@RUTURAJ_ROCks</a> · <a href="prompts/ja/pelican-bmx-1980s-town.md">Prompt</a></sub></td>
+<td width="33%" valign="top"><a id="case-33"></a><a href="prompts/ja/pelican-ride-at-dusk.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125105087085486080/img/nU7FweEbYOtfFz49.jpg" alt="夕暮れに自転車に乗るペリカン" width="100%"></a><br><a href="https://x.com/GKev1n/status/2125114694113567093"><b>夕暮れに自転車に乗るペリカン</b></a><br><sub><a href="https://x.com/GKev1n">@GKev1n</a> · <a href="prompts/ja/pelican-ride-at-dusk.md">デモ</a></sub></td>
 </tr>
 </table>
 
@@ -94,6 +101,11 @@
 <td width="33%" valign="top"><a id="case-8"></a><a href="prompts/ja/voxel-sandbox.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125385254915457024/img/3e7xp74sz2aOdfMM.jpg" alt="単一 HTML のボクセルゲーム" width="100%"></a><br><a href="https://x.com/intheworldofai/status/2125385407806284196"><b>単一 HTML のボクセルゲーム</b></a><br><sub><a href="https://x.com/intheworldofai">@intheworldofai</a> · <a href="prompts/ja/voxel-sandbox.md">デモ</a></sub></td>
 <td width="33%" valign="top"><a id="case-9"></a><a href="prompts/ja/threejs-first-person-game.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125367649676713984/img/yhj7FLTQjONLAOS3.jpg" alt="Three.js の一人称ゲーム" width="100%"></a><br><a href="https://x.com/RezAIT00/status/2125368341002924390"><b>Three.js の一人称ゲーム</b></a><br><sub><a href="https://x.com/RezAIT00">@RezAIT00</a> · <a href="prompts/ja/threejs-first-person-game.md">デモ</a></sub></td>
 <td width="33%" valign="top"><a id="case-10"></a><a href="prompts/ja/tower-defense-trailer.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125222177028886528/img/I6nFGS4mAj0t9-js.jpg" alt="タワーディフェンスの予告編" width="100%"></a><br><a href="https://x.com/Mr_Salio/status/2125222399809409109"><b>タワーディフェンスの予告編</b></a><br><sub><a href="https://x.com/Mr_Salio">@Mr_Salio</a> · <a href="prompts/ja/tower-defense-trailer.md">デモ</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a id="case-30"></a><a href="prompts/ja/jensen-isometric-game.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125307091477024768/img/GC4tpBzn9P-JrpAd.jpg" alt="クォータービューのジェンスンゲーム" width="100%"></a><br><a href="https://x.com/shashin_bhaskar/status/2125307163325415515"><b>クォータービューのジェンスンゲーム</b></a><br><sub><a href="https://x.com/shashin_bhaskar">@shashin_bhaskar</a> · <a href="prompts/ja/jensen-isometric-game.md">デモ</a></sub></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 </table>
 
@@ -114,7 +126,12 @@
 </tr>
 <tr>
 <td width="33%" valign="top"><a id="case-22"></a><a href="prompts/ja/excavator-simulator.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125318296396599296/img/nsyj91V1XqpkBQnB.jpg" alt="油圧ショベルのシミュレーター" width="100%"></a><br><a href="https://x.com/lucian__03/status/2125410894939111807"><b>油圧ショベルのシミュレーター</b></a><br><sub><a href="https://x.com/lucian__03">@lucian__03</a> · <a href="prompts/ja/excavator-simulator.md">デモ</a></sub></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top"><a id="case-25"></a><a href="prompts/ja/rotating-black-hole.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125385738829340672/img/2Tmh7s1GYLPTrJFi.jpg" alt="回転するブラックホールのシミュレーション" width="100%"></a><br><a href="https://x.com/RJasonHA/status/2125386093797478565"><b>回転するブラックホールのシミュレーション</b></a><br><sub><a href="https://x.com/RJasonHA">@RJasonHA</a> · <a href="prompts/ja/rotating-black-hole.md">Prompt</a></sub></td>
+<td width="33%" valign="top"><a id="case-26"></a><a href="prompts/ja/webgl2-black-hole-variation.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125439116620001280/img/79_eNcWckKWWeTsq.jpg" alt="WebGL 2 の別のブラックホール表現" width="100%"></a><br><a href="https://x.com/j4kcdq/status/2125461482678944166"><b>WebGL 2 の別のブラックホール表現</b></a><br><sub><a href="https://x.com/j4kcdq">@j4kcdq</a> · <a href="prompts/ja/webgl2-black-hole-variation.md">デモ</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a id="case-31"></a><a href="prompts/ja/china-three-model-comparison.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125430694075572225/img/a_Nm8XoFF-whlmTa.jpg" alt="3モデルで中国の風景を比較" width="100%"></a><br><a href="https://x.com/RezAIT00/status/2125430728305369324"><b>3モデルで中国の風景を比較</b></a><br><sub><a href="https://x.com/RezAIT00">@RezAIT00</a> · <a href="prompts/ja/china-three-model-comparison.md">デモ</a></sub></td>
+<td width="33%" valign="top"><a id="case-32"></a><a href="prompts/ja/roadster-exploded-view.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125346669583589376/img/OUEuoXxmdQsvj4gp.jpg" alt="ロードスターの分解図アニメーション" width="100%"></a><br><a href="https://x.com/Mr_Salio/status/2125346704253755846"><b>ロードスターの分解図アニメーション</b></a><br><sub><a href="https://x.com/Mr_Salio">@Mr_Salio</a> · <a href="prompts/ja/roadster-exploded-view.md">デモ</a></sub></td>
 <td width="33%" valign="top"></td>
 </tr>
 </table>
@@ -131,6 +148,6 @@
 
 事例を共有した皆さんに感謝します。
 
-[@chetaslua](https://x.com/chetaslua), [@marcthecreatorr](https://x.com/marcthecreatorr), [@LeeLinAI123](https://x.com/LeeLinAI123), [@lemomo_ai](https://x.com/lemomo_ai), [@lucian__03](https://x.com/lucian__03), [@intheworldofai](https://x.com/intheworldofai), [@RezAIT00](https://x.com/RezAIT00), [@Mr_Salio](https://x.com/Mr_Salio), [@ishuagra02](https://x.com/ishuagra02), [@anstapnever](https://x.com/anstapnever), [@notjazii](https://x.com/notjazii), [@SPAC89](https://x.com/SPAC89), [@vib3coded](https://x.com/vib3coded), [@pr0mptcat](https://x.com/pr0mptcat)
+[@chetaslua](https://x.com/chetaslua), [@marcthecreatorr](https://x.com/marcthecreatorr), [@LeeLinAI123](https://x.com/LeeLinAI123), [@lemomo_ai](https://x.com/lemomo_ai), [@lucian__03](https://x.com/lucian__03), [@intheworldofai](https://x.com/intheworldofai), [@RezAIT00](https://x.com/RezAIT00), [@Mr_Salio](https://x.com/Mr_Salio), [@ishuagra02](https://x.com/ishuagra02), [@anstapnever](https://x.com/anstapnever), [@notjazii](https://x.com/notjazii), [@SPAC89](https://x.com/SPAC89), [@vib3coded](https://x.com/vib3coded), [@pr0mptcat](https://x.com/pr0mptcat), [@RJasonHA](https://x.com/RJasonHA), [@j4kcdq](https://x.com/j4kcdq), [@GKev1n](https://x.com/GKev1n), [@RUTURAJ_ROCks](https://x.com/RUTURAJ_ROCks), [@shashin_bhaskar](https://x.com/shashin_bhaskar)
 
 出典の訂正や削除のご依頼は Issue でお知らせください。

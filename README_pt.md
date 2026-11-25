@@ -40,6 +40,8 @@ Escolha um caso no índice e abra a publicação original para ver o exemplo e l
 
 - **2026-11-25** · Migramos para Video Prompt Gallery e ampliamos a seleção com fontes conferidas.
 
+- **2026-11-25** · Adicionamos 10 casos com fontes verificadas e dois prompts públicos.
+
 <a id="menu"></a>
 
 ## 📑 Índice
@@ -47,9 +49,9 @@ Escolha um caso no índice e abra a publicação original para ver o exemplo e l
 - [Introdução](#introduction)
 - [Início rápido](#quick-start)
 - [Novidades](#news)
-- [🎬 Vídeo e animação](#video-and-animation) (13)
-- [🎮 Jogos 3D](#3d-games) (3)
-- [🧊 Cenas e simulações 3D](#3d-scenes-and-simulations) (7)
+- [🎬 Vídeo e animação](#video-and-animation) (18)
+- [🎮 Jogos 3D](#3d-games) (4)
+- [🧊 Cenas e simulações 3D](#3d-scenes-and-simulations) (11)
 - [Repositórios relacionados](#related-repositories)
 - [Agradecimentos](#acknowledge)
 
@@ -80,8 +82,13 @@ Escolha um caso no índice e abra a publicação original para ver o exemplo e l
 </tr>
 <tr>
 <td width="33%" valign="top"><a id="case-23"></a><a href="prompts/pt/world-inside-a-watch.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125284651417645056/img/euIEhADK6eB7hk2z.jpg" alt="Um mundo dentro de um relógio" width="100%"></a><br><a href="https://x.com/RezAIT00/status/2125285225769164985"><b>Um mundo dentro de um relógio</b></a><br><sub><a href="https://x.com/RezAIT00">@RezAIT00</a> · <a href="prompts/pt/world-inside-a-watch.md">Demonstração</a></sub></td>
-<td width="33%" valign="top"></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top"><a id="case-24"></a><a href="prompts/pt/single-file-music-animation.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125514262726729728/img/2V8P7VI47XpsNOzS.jpg" alt="Animação musical em um arquivo" width="100%"></a><br><a href="https://x.com/notjazii/status/2125517704031621562"><b>Animação musical em um arquivo</b></a><br><sub><a href="https://x.com/notjazii">@notjazii</a> · <a href="prompts/pt/single-file-music-animation.md">Demonstração</a></sub></td>
+<td width="33%" valign="top"><a id="case-27"></a><a href="prompts/pt/new-york-voxel-history.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125362877443760128/img/7VBugZ6L8V63tNL9.jpg" alt="Quatro séculos de Nova York em voxels" width="100%"></a><br><a href="https://x.com/LeeLinAI123/status/2125362983278682164"><b>Quatro séculos de Nova York em voxels</b></a><br><sub><a href="https://x.com/LeeLinAI123">@LeeLinAI123</a> · <a href="prompts/pt/new-york-voxel-history.md">Demonstração</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a id="case-28"></a><a href="prompts/pt/running-cow-animation.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125141229705052160/img/No1-jUsTibX5oIQi.jpg" alt="Animação de uma vaca correndo" width="100%"></a><br><a href="https://x.com/GKev1n/status/2125159991808061883"><b>Animação de uma vaca correndo</b></a><br><sub><a href="https://x.com/GKev1n">@GKev1n</a> · <a href="prompts/pt/running-cow-animation.md">Demonstração</a></sub></td>
+<td width="33%" valign="top"><a id="case-29"></a><a href="prompts/pt/pelican-bmx-1980s-town.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125507196993875968/img/0KyUPzj9lO6yBfmK.jpg" alt="Pelicano de BMX em uma cidade dos anos 1980" width="100%"></a><br><a href="https://x.com/RUTURAJ_ROCks/status/2125507492549710189"><b>Pelicano de BMX em uma cidade dos anos 1980</b></a><br><sub><a href="https://x.com/RUTURAJ_ROCks">@RUTURAJ_ROCks</a> · <a href="prompts/pt/pelican-bmx-1980s-town.md">Prompt</a></sub></td>
+<td width="33%" valign="top"><a id="case-33"></a><a href="prompts/pt/pelican-ride-at-dusk.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125105087085486080/img/nU7FweEbYOtfFz49.jpg" alt="Pelicano de bicicleta ao anoitecer" width="100%"></a><br><a href="https://x.com/GKev1n/status/2125114694113567093"><b>Pelicano de bicicleta ao anoitecer</b></a><br><sub><a href="https://x.com/GKev1n">@GKev1n</a> · <a href="prompts/pt/pelican-ride-at-dusk.md">Demonstração</a></sub></td>
 </tr>
 </table>
 
@@ -94,6 +101,11 @@ Escolha um caso no índice e abra a publicação original para ver o exemplo e l
 <td width="33%" valign="top"><a id="case-8"></a><a href="prompts/pt/voxel-sandbox.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125385254915457024/img/3e7xp74sz2aOdfMM.jpg" alt="Sandbox de voxels em um HTML" width="100%"></a><br><a href="https://x.com/intheworldofai/status/2125385407806284196"><b>Sandbox de voxels em um HTML</b></a><br><sub><a href="https://x.com/intheworldofai">@intheworldofai</a> · <a href="prompts/pt/voxel-sandbox.md">Demonstração</a></sub></td>
 <td width="33%" valign="top"><a id="case-9"></a><a href="prompts/pt/threejs-first-person-game.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125367649676713984/img/yhj7FLTQjONLAOS3.jpg" alt="Jogo em primeira pessoa em Three.js" width="100%"></a><br><a href="https://x.com/RezAIT00/status/2125368341002924390"><b>Jogo em primeira pessoa em Three.js</b></a><br><sub><a href="https://x.com/RezAIT00">@RezAIT00</a> · <a href="prompts/pt/threejs-first-person-game.md">Demonstração</a></sub></td>
 <td width="33%" valign="top"><a id="case-10"></a><a href="prompts/pt/tower-defense-trailer.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125222177028886528/img/I6nFGS4mAj0t9-js.jpg" alt="Trailer de defesa de torres" width="100%"></a><br><a href="https://x.com/Mr_Salio/status/2125222399809409109"><b>Trailer de defesa de torres</b></a><br><sub><a href="https://x.com/Mr_Salio">@Mr_Salio</a> · <a href="prompts/pt/tower-defense-trailer.md">Demonstração</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a id="case-30"></a><a href="prompts/pt/jensen-isometric-game.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125307091477024768/img/GC4tpBzn9P-JrpAd.jpg" alt="Demo isométrica do jogo de Jensen" width="100%"></a><br><a href="https://x.com/shashin_bhaskar/status/2125307163325415515"><b>Demo isométrica do jogo de Jensen</b></a><br><sub><a href="https://x.com/shashin_bhaskar">@shashin_bhaskar</a> · <a href="prompts/pt/jensen-isometric-game.md">Demonstração</a></sub></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 </table>
 
@@ -114,7 +126,12 @@ Escolha um caso no índice e abra a publicação original para ver o exemplo e l
 </tr>
 <tr>
 <td width="33%" valign="top"><a id="case-22"></a><a href="prompts/pt/excavator-simulator.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125318296396599296/img/nsyj91V1XqpkBQnB.jpg" alt="Simulador de escavadeira" width="100%"></a><br><a href="https://x.com/lucian__03/status/2125410894939111807"><b>Simulador de escavadeira</b></a><br><sub><a href="https://x.com/lucian__03">@lucian__03</a> · <a href="prompts/pt/excavator-simulator.md">Demonstração</a></sub></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top"><a id="case-25"></a><a href="prompts/pt/rotating-black-hole.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125385738829340672/img/2Tmh7s1GYLPTrJFi.jpg" alt="Simulação de buraco negro em rotação" width="100%"></a><br><a href="https://x.com/RJasonHA/status/2125386093797478565"><b>Simulação de buraco negro em rotação</b></a><br><sub><a href="https://x.com/RJasonHA">@RJasonHA</a> · <a href="prompts/pt/rotating-black-hole.md">Prompt</a></sub></td>
+<td width="33%" valign="top"><a id="case-26"></a><a href="prompts/pt/webgl2-black-hole-variation.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125439116620001280/img/79_eNcWckKWWeTsq.jpg" alt="Outra versão de buraco negro em WebGL 2" width="100%"></a><br><a href="https://x.com/j4kcdq/status/2125461482678944166"><b>Outra versão de buraco negro em WebGL 2</b></a><br><sub><a href="https://x.com/j4kcdq">@j4kcdq</a> · <a href="prompts/pt/webgl2-black-hole-variation.md">Demonstração</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a id="case-31"></a><a href="prompts/pt/china-three-model-comparison.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125430694075572225/img/a_Nm8XoFF-whlmTa.jpg" alt="Comparação de três modelos em uma cena da China" width="100%"></a><br><a href="https://x.com/RezAIT00/status/2125430728305369324"><b>Comparação de três modelos em uma cena da China</b></a><br><sub><a href="https://x.com/RezAIT00">@RezAIT00</a> · <a href="prompts/pt/china-three-model-comparison.md">Demonstração</a></sub></td>
+<td width="33%" valign="top"><a id="case-32"></a><a href="prompts/pt/roadster-exploded-view.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125346669583589376/img/OUEuoXxmdQsvj4gp.jpg" alt="Animação de vista explodida do Roadster" width="100%"></a><br><a href="https://x.com/Mr_Salio/status/2125346704253755846"><b>Animação de vista explodida do Roadster</b></a><br><sub><a href="https://x.com/Mr_Salio">@Mr_Salio</a> · <a href="prompts/pt/roadster-exploded-view.md">Demonstração</a></sub></td>
 <td width="33%" valign="top"></td>
 </tr>
 </table>
@@ -131,6 +148,6 @@ Escolha um caso no índice e abra a publicação original para ver o exemplo e l
 
 Agradecemos às contas que compartilharam os exemplos.
 
-[@chetaslua](https://x.com/chetaslua), [@marcthecreatorr](https://x.com/marcthecreatorr), [@LeeLinAI123](https://x.com/LeeLinAI123), [@lemomo_ai](https://x.com/lemomo_ai), [@lucian__03](https://x.com/lucian__03), [@intheworldofai](https://x.com/intheworldofai), [@RezAIT00](https://x.com/RezAIT00), [@Mr_Salio](https://x.com/Mr_Salio), [@ishuagra02](https://x.com/ishuagra02), [@anstapnever](https://x.com/anstapnever), [@notjazii](https://x.com/notjazii), [@SPAC89](https://x.com/SPAC89), [@vib3coded](https://x.com/vib3coded), [@pr0mptcat](https://x.com/pr0mptcat)
+[@chetaslua](https://x.com/chetaslua), [@marcthecreatorr](https://x.com/marcthecreatorr), [@LeeLinAI123](https://x.com/LeeLinAI123), [@lemomo_ai](https://x.com/lemomo_ai), [@lucian__03](https://x.com/lucian__03), [@intheworldofai](https://x.com/intheworldofai), [@RezAIT00](https://x.com/RezAIT00), [@Mr_Salio](https://x.com/Mr_Salio), [@ishuagra02](https://x.com/ishuagra02), [@anstapnever](https://x.com/anstapnever), [@notjazii](https://x.com/notjazii), [@SPAC89](https://x.com/SPAC89), [@vib3coded](https://x.com/vib3coded), [@pr0mptcat](https://x.com/pr0mptcat), [@RJasonHA](https://x.com/RJasonHA), [@j4kcdq](https://x.com/j4kcdq), [@GKev1n](https://x.com/GKev1n), [@RUTURAJ_ROCks](https://x.com/RUTURAJ_ROCks), [@shashin_bhaskar](https://x.com/shashin_bhaskar)
 
 Abra uma issue para corrigir os créditos ou solicitar a remoção de um caso.

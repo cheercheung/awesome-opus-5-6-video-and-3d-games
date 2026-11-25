@@ -40,6 +40,8 @@
 
 - **2026-11-25** · 改用 Video Prompt Gallery，並擴充已回查來源的案例。
 
+- **2026-11-25** · 新增 10 個來源已查核的案例與 2 份公開提示詞。
+
 <a id="menu"></a>
 
 ## 📑 目錄
@@ -47,9 +49,9 @@
 - [簡介](#introduction)
 - [快速開始](#quick-start)
 - [更新](#news)
-- [🎬 影片與動畫](#video-and-animation) (13)
-- [🎮 3D 遊戲](#3d-games) (3)
-- [🧊 3D 場景與模擬器](#3d-scenes-and-simulations) (7)
+- [🎬 影片與動畫](#video-and-animation) (18)
+- [🎮 3D 遊戲](#3d-games) (4)
+- [🧊 3D 場景與模擬器](#3d-scenes-and-simulations) (11)
 - [相關儲存庫](#related-repositories)
 - [致謝](#acknowledge)
 
@@ -80,8 +82,13 @@
 </tr>
 <tr>
 <td width="33%" valign="top"><a id="case-23"></a><a href="prompts/zh-TW/world-inside-a-watch.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125284651417645056/img/euIEhADK6eB7hk2z.jpg" alt="手錶裡的微縮世界" width="100%"></a><br><a href="https://x.com/RezAIT00/status/2125285225769164985"><b>手錶裡的微縮世界</b></a><br><sub><a href="https://x.com/RezAIT00">@RezAIT00</a> · <a href="prompts/zh-TW/world-inside-a-watch.md">展示</a></sub></td>
-<td width="33%" valign="top"></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top"><a id="case-24"></a><a href="prompts/zh-TW/single-file-music-animation.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125514262726729728/img/2V8P7VI47XpsNOzS.jpg" alt="單檔音樂動畫" width="100%"></a><br><a href="https://x.com/notjazii/status/2125517704031621562"><b>單檔音樂動畫</b></a><br><sub><a href="https://x.com/notjazii">@notjazii</a> · <a href="prompts/zh-TW/single-file-music-animation.md">展示</a></sub></td>
+<td width="33%" valign="top"><a id="case-27"></a><a href="prompts/zh-TW/new-york-voxel-history.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125362877443760128/img/7VBugZ6L8V63tNL9.jpg" alt="紐約四百年體素動畫" width="100%"></a><br><a href="https://x.com/LeeLinAI123/status/2125362983278682164"><b>紐約四百年體素動畫</b></a><br><sub><a href="https://x.com/LeeLinAI123">@LeeLinAI123</a> · <a href="prompts/zh-TW/new-york-voxel-history.md">展示</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a id="case-28"></a><a href="prompts/zh-TW/running-cow-animation.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125141229705052160/img/No1-jUsTibX5oIQi.jpg" alt="奔跑的奶牛動畫" width="100%"></a><br><a href="https://x.com/GKev1n/status/2125159991808061883"><b>奔跑的奶牛動畫</b></a><br><sub><a href="https://x.com/GKev1n">@GKev1n</a> · <a href="prompts/zh-TW/running-cow-animation.md">展示</a></sub></td>
+<td width="33%" valign="top"><a id="case-29"></a><a href="prompts/zh-TW/pelican-bmx-1980s-town.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125507196993875968/img/0KyUPzj9lO6yBfmK.jpg" alt="騎 BMX 穿過 1980 年代小鎮的鵜鶘" width="100%"></a><br><a href="https://x.com/RUTURAJ_ROCks/status/2125507492549710189"><b>騎 BMX 穿過 1980 年代小鎮的鵜鶘</b></a><br><sub><a href="https://x.com/RUTURAJ_ROCks">@RUTURAJ_ROCks</a> · <a href="prompts/zh-TW/pelican-bmx-1980s-town.md">Prompt</a></sub></td>
+<td width="33%" valign="top"><a id="case-33"></a><a href="prompts/zh-TW/pelican-ride-at-dusk.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125105087085486080/img/nU7FweEbYOtfFz49.jpg" alt="暮色中的單車鵜鶘" width="100%"></a><br><a href="https://x.com/GKev1n/status/2125114694113567093"><b>暮色中的單車鵜鶘</b></a><br><sub><a href="https://x.com/GKev1n">@GKev1n</a> · <a href="prompts/zh-TW/pelican-ride-at-dusk.md">展示</a></sub></td>
 </tr>
 </table>
 
@@ -94,6 +101,11 @@
 <td width="33%" valign="top"><a id="case-8"></a><a href="prompts/zh-TW/voxel-sandbox.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125385254915457024/img/3e7xp74sz2aOdfMM.jpg" alt="單檔 HTML 體素沙盒" width="100%"></a><br><a href="https://x.com/intheworldofai/status/2125385407806284196"><b>單檔 HTML 體素沙盒</b></a><br><sub><a href="https://x.com/intheworldofai">@intheworldofai</a> · <a href="prompts/zh-TW/voxel-sandbox.md">展示</a></sub></td>
 <td width="33%" valign="top"><a id="case-9"></a><a href="prompts/zh-TW/threejs-first-person-game.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125367649676713984/img/yhj7FLTQjONLAOS3.jpg" alt="Three.js 第一人稱遊戲" width="100%"></a><br><a href="https://x.com/RezAIT00/status/2125368341002924390"><b>Three.js 第一人稱遊戲</b></a><br><sub><a href="https://x.com/RezAIT00">@RezAIT00</a> · <a href="prompts/zh-TW/threejs-first-person-game.md">展示</a></sub></td>
 <td width="33%" valign="top"><a id="case-10"></a><a href="prompts/zh-TW/tower-defense-trailer.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125222177028886528/img/I6nFGS4mAj0t9-js.jpg" alt="塔防遊戲預告片" width="100%"></a><br><a href="https://x.com/Mr_Salio/status/2125222399809409109"><b>塔防遊戲預告片</b></a><br><sub><a href="https://x.com/Mr_Salio">@Mr_Salio</a> · <a href="prompts/zh-TW/tower-defense-trailer.md">展示</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a id="case-30"></a><a href="prompts/zh-TW/jensen-isometric-game.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125307091477024768/img/GC4tpBzn9P-JrpAd.jpg" alt="Jensen 等角視角遊戲展示" width="100%"></a><br><a href="https://x.com/shashin_bhaskar/status/2125307163325415515"><b>Jensen 等角視角遊戲展示</b></a><br><sub><a href="https://x.com/shashin_bhaskar">@shashin_bhaskar</a> · <a href="prompts/zh-TW/jensen-isometric-game.md">展示</a></sub></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 </table>
 
@@ -114,7 +126,12 @@
 </tr>
 <tr>
 <td width="33%" valign="top"><a id="case-22"></a><a href="prompts/zh-TW/excavator-simulator.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125318296396599296/img/nsyj91V1XqpkBQnB.jpg" alt="挖掘機模擬器" width="100%"></a><br><a href="https://x.com/lucian__03/status/2125410894939111807"><b>挖掘機模擬器</b></a><br><sub><a href="https://x.com/lucian__03">@lucian__03</a> · <a href="prompts/zh-TW/excavator-simulator.md">展示</a></sub></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top"><a id="case-25"></a><a href="prompts/zh-TW/rotating-black-hole.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125385738829340672/img/2Tmh7s1GYLPTrJFi.jpg" alt="旋轉黑洞模擬" width="100%"></a><br><a href="https://x.com/RJasonHA/status/2125386093797478565"><b>旋轉黑洞模擬</b></a><br><sub><a href="https://x.com/RJasonHA">@RJasonHA</a> · <a href="prompts/zh-TW/rotating-black-hole.md">Prompt</a></sub></td>
+<td width="33%" valign="top"><a id="case-26"></a><a href="prompts/zh-TW/webgl2-black-hole-variation.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125439116620001280/img/79_eNcWckKWWeTsq.jpg" alt="WebGL 2 黑洞變體" width="100%"></a><br><a href="https://x.com/j4kcdq/status/2125461482678944166"><b>WebGL 2 黑洞變體</b></a><br><sub><a href="https://x.com/j4kcdq">@j4kcdq</a> · <a href="prompts/zh-TW/webgl2-black-hole-variation.md">展示</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a id="case-31"></a><a href="prompts/zh-TW/china-three-model-comparison.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125430694075572225/img/a_Nm8XoFF-whlmTa.jpg" alt="中國場景三模型比較" width="100%"></a><br><a href="https://x.com/RezAIT00/status/2125430728305369324"><b>中國場景三模型比較</b></a><br><sub><a href="https://x.com/RezAIT00">@RezAIT00</a> · <a href="prompts/zh-TW/china-three-model-comparison.md">展示</a></sub></td>
+<td width="33%" valign="top"><a id="case-32"></a><a href="prompts/zh-TW/roadster-exploded-view.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125346669583589376/img/OUEuoXxmdQsvj4gp.jpg" alt="Roadster 零件爆炸圖動畫" width="100%"></a><br><a href="https://x.com/Mr_Salio/status/2125346704253755846"><b>Roadster 零件爆炸圖動畫</b></a><br><sub><a href="https://x.com/Mr_Salio">@Mr_Salio</a> · <a href="prompts/zh-TW/roadster-exploded-view.md">展示</a></sub></td>
 <td width="33%" valign="top"></td>
 </tr>
 </table>
@@ -131,6 +148,6 @@
 
 感謝分享案例的帳號。
 
-[@chetaslua](https://x.com/chetaslua), [@marcthecreatorr](https://x.com/marcthecreatorr), [@LeeLinAI123](https://x.com/LeeLinAI123), [@lemomo_ai](https://x.com/lemomo_ai), [@lucian__03](https://x.com/lucian__03), [@intheworldofai](https://x.com/intheworldofai), [@RezAIT00](https://x.com/RezAIT00), [@Mr_Salio](https://x.com/Mr_Salio), [@ishuagra02](https://x.com/ishuagra02), [@anstapnever](https://x.com/anstapnever), [@notjazii](https://x.com/notjazii), [@SPAC89](https://x.com/SPAC89), [@vib3coded](https://x.com/vib3coded), [@pr0mptcat](https://x.com/pr0mptcat)
+[@chetaslua](https://x.com/chetaslua), [@marcthecreatorr](https://x.com/marcthecreatorr), [@LeeLinAI123](https://x.com/LeeLinAI123), [@lemomo_ai](https://x.com/lemomo_ai), [@lucian__03](https://x.com/lucian__03), [@intheworldofai](https://x.com/intheworldofai), [@RezAIT00](https://x.com/RezAIT00), [@Mr_Salio](https://x.com/Mr_Salio), [@ishuagra02](https://x.com/ishuagra02), [@anstapnever](https://x.com/anstapnever), [@notjazii](https://x.com/notjazii), [@SPAC89](https://x.com/SPAC89), [@vib3coded](https://x.com/vib3coded), [@pr0mptcat](https://x.com/pr0mptcat), [@RJasonHA](https://x.com/RJasonHA), [@j4kcdq](https://x.com/j4kcdq), [@GKev1n](https://x.com/GKev1n), [@RUTURAJ_ROCks](https://x.com/RUTURAJ_ROCks), [@shashin_bhaskar](https://x.com/shashin_bhaskar)
 
 若需更正出處或要求移除，請開啟 Issue。

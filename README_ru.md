@@ -40,6 +40,8 @@
 
 - **2026-11-25** · Мы перешли на Video Prompt Gallery и дополнили подборку примерами с проверенными источниками.
 
+- **2026-11-25** · Добавлено 10 примеров с проверенными источниками и два публичных промпта.
+
 <a id="menu"></a>
 
 ## 📑 Содержание
@@ -47,9 +49,9 @@
 - [Введение](#introduction)
 - [Быстрый старт](#quick-start)
 - [Новости](#news)
-- [🎬 Видео и анимация](#video-and-animation) (13)
-- [🎮 3D-игры](#3d-games) (3)
-- [🧊 3D-сцены и симуляторы](#3d-scenes-and-simulations) (7)
+- [🎬 Видео и анимация](#video-and-animation) (18)
+- [🎮 3D-игры](#3d-games) (4)
+- [🧊 3D-сцены и симуляторы](#3d-scenes-and-simulations) (11)
 - [Связанные репозитории](#related-repositories)
 - [Благодарности](#acknowledge)
 
@@ -80,8 +82,13 @@
 </tr>
 <tr>
 <td width="33%" valign="top"><a id="case-23"></a><a href="prompts/ru/world-inside-a-watch.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125284651417645056/img/euIEhADK6eB7hk2z.jpg" alt="Мир внутри наручных часов" width="100%"></a><br><a href="https://x.com/RezAIT00/status/2125285225769164985"><b>Мир внутри наручных часов</b></a><br><sub><a href="https://x.com/RezAIT00">@RezAIT00</a> · <a href="prompts/ru/world-inside-a-watch.md">Демо</a></sub></td>
-<td width="33%" valign="top"></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top"><a id="case-24"></a><a href="prompts/ru/single-file-music-animation.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125514262726729728/img/2V8P7VI47XpsNOzS.jpg" alt="Музыкальная анимация в одном файле" width="100%"></a><br><a href="https://x.com/notjazii/status/2125517704031621562"><b>Музыкальная анимация в одном файле</b></a><br><sub><a href="https://x.com/notjazii">@notjazii</a> · <a href="prompts/ru/single-file-music-animation.md">Демо</a></sub></td>
+<td width="33%" valign="top"><a id="case-27"></a><a href="prompts/ru/new-york-voxel-history.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125362877443760128/img/7VBugZ6L8V63tNL9.jpg" alt="Четыре века Нью-Йорка в вокселях" width="100%"></a><br><a href="https://x.com/LeeLinAI123/status/2125362983278682164"><b>Четыре века Нью-Йорка в вокселях</b></a><br><sub><a href="https://x.com/LeeLinAI123">@LeeLinAI123</a> · <a href="prompts/ru/new-york-voxel-history.md">Демо</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a id="case-28"></a><a href="prompts/ru/running-cow-animation.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125141229705052160/img/No1-jUsTibX5oIQi.jpg" alt="Анимация бегущей коровы" width="100%"></a><br><a href="https://x.com/GKev1n/status/2125159991808061883"><b>Анимация бегущей коровы</b></a><br><sub><a href="https://x.com/GKev1n">@GKev1n</a> · <a href="prompts/ru/running-cow-animation.md">Демо</a></sub></td>
+<td width="33%" valign="top"><a id="case-29"></a><a href="prompts/ru/pelican-bmx-1980s-town.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125507196993875968/img/0KyUPzj9lO6yBfmK.jpg" alt="Пеликан на BMX в городе восьмидесятых" width="100%"></a><br><a href="https://x.com/RUTURAJ_ROCks/status/2125507492549710189"><b>Пеликан на BMX в городе восьмидесятых</b></a><br><sub><a href="https://x.com/RUTURAJ_ROCks">@RUTURAJ_ROCks</a> · <a href="prompts/ru/pelican-bmx-1980s-town.md">Prompt</a></sub></td>
+<td width="33%" valign="top"><a id="case-33"></a><a href="prompts/ru/pelican-ride-at-dusk.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125105087085486080/img/nU7FweEbYOtfFz49.jpg" alt="Пеликан на велосипеде в сумерках" width="100%"></a><br><a href="https://x.com/GKev1n/status/2125114694113567093"><b>Пеликан на велосипеде в сумерках</b></a><br><sub><a href="https://x.com/GKev1n">@GKev1n</a> · <a href="prompts/ru/pelican-ride-at-dusk.md">Демо</a></sub></td>
 </tr>
 </table>
 
@@ -94,6 +101,11 @@
 <td width="33%" valign="top"><a id="case-8"></a><a href="prompts/ru/voxel-sandbox.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125385254915457024/img/3e7xp74sz2aOdfMM.jpg" alt="Воксельная песочница в одном HTML" width="100%"></a><br><a href="https://x.com/intheworldofai/status/2125385407806284196"><b>Воксельная песочница в одном HTML</b></a><br><sub><a href="https://x.com/intheworldofai">@intheworldofai</a> · <a href="prompts/ru/voxel-sandbox.md">Демо</a></sub></td>
 <td width="33%" valign="top"><a id="case-9"></a><a href="prompts/ru/threejs-first-person-game.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125367649676713984/img/yhj7FLTQjONLAOS3.jpg" alt="Игра от первого лица на Three.js" width="100%"></a><br><a href="https://x.com/RezAIT00/status/2125368341002924390"><b>Игра от первого лица на Three.js</b></a><br><sub><a href="https://x.com/RezAIT00">@RezAIT00</a> · <a href="prompts/ru/threejs-first-person-game.md">Демо</a></sub></td>
 <td width="33%" valign="top"><a id="case-10"></a><a href="prompts/ru/tower-defense-trailer.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125222177028886528/img/I6nFGS4mAj0t9-js.jpg" alt="Трейлер игры в жанре Tower Defense" width="100%"></a><br><a href="https://x.com/Mr_Salio/status/2125222399809409109"><b>Трейлер игры в жанре Tower Defense</b></a><br><sub><a href="https://x.com/Mr_Salio">@Mr_Salio</a> · <a href="prompts/ru/tower-defense-trailer.md">Демо</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a id="case-30"></a><a href="prompts/ru/jensen-isometric-game.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125307091477024768/img/GC4tpBzn9P-JrpAd.jpg" alt="Изометрическая демонстрация игры про Дженсена" width="100%"></a><br><a href="https://x.com/shashin_bhaskar/status/2125307163325415515"><b>Изометрическая демонстрация игры про Дженсена</b></a><br><sub><a href="https://x.com/shashin_bhaskar">@shashin_bhaskar</a> · <a href="prompts/ru/jensen-isometric-game.md">Демо</a></sub></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 </table>
 
@@ -114,7 +126,12 @@
 </tr>
 <tr>
 <td width="33%" valign="top"><a id="case-22"></a><a href="prompts/ru/excavator-simulator.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125318296396599296/img/nsyj91V1XqpkBQnB.jpg" alt="Симулятор экскаватора" width="100%"></a><br><a href="https://x.com/lucian__03/status/2125410894939111807"><b>Симулятор экскаватора</b></a><br><sub><a href="https://x.com/lucian__03">@lucian__03</a> · <a href="prompts/ru/excavator-simulator.md">Демо</a></sub></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top"><a id="case-25"></a><a href="prompts/ru/rotating-black-hole.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125385738829340672/img/2Tmh7s1GYLPTrJFi.jpg" alt="Симуляция вращающейся чёрной дыры" width="100%"></a><br><a href="https://x.com/RJasonHA/status/2125386093797478565"><b>Симуляция вращающейся чёрной дыры</b></a><br><sub><a href="https://x.com/RJasonHA">@RJasonHA</a> · <a href="prompts/ru/rotating-black-hole.md">Prompt</a></sub></td>
+<td width="33%" valign="top"><a id="case-26"></a><a href="prompts/ru/webgl2-black-hole-variation.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125439116620001280/img/79_eNcWckKWWeTsq.jpg" alt="Вариант чёрной дыры на WebGL 2" width="100%"></a><br><a href="https://x.com/j4kcdq/status/2125461482678944166"><b>Вариант чёрной дыры на WebGL 2</b></a><br><sub><a href="https://x.com/j4kcdq">@j4kcdq</a> · <a href="prompts/ru/webgl2-black-hole-variation.md">Демо</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a id="case-31"></a><a href="prompts/ru/china-three-model-comparison.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125430694075572225/img/a_Nm8XoFF-whlmTa.jpg" alt="Сцена Китая в сравнении трёх моделей" width="100%"></a><br><a href="https://x.com/RezAIT00/status/2125430728305369324"><b>Сцена Китая в сравнении трёх моделей</b></a><br><sub><a href="https://x.com/RezAIT00">@RezAIT00</a> · <a href="prompts/ru/china-three-model-comparison.md">Демо</a></sub></td>
+<td width="33%" valign="top"><a id="case-32"></a><a href="prompts/ru/roadster-exploded-view.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125346669583589376/img/OUEuoXxmdQsvj4gp.jpg" alt="Анимация разобранного родстера" width="100%"></a><br><a href="https://x.com/Mr_Salio/status/2125346704253755846"><b>Анимация разобранного родстера</b></a><br><sub><a href="https://x.com/Mr_Salio">@Mr_Salio</a> · <a href="prompts/ru/roadster-exploded-view.md">Демо</a></sub></td>
 <td width="33%" valign="top"></td>
 </tr>
 </table>
@@ -131,6 +148,6 @@
 
 Спасибо всем, кто поделился примерами.
 
-[@chetaslua](https://x.com/chetaslua), [@marcthecreatorr](https://x.com/marcthecreatorr), [@LeeLinAI123](https://x.com/LeeLinAI123), [@lemomo_ai](https://x.com/lemomo_ai), [@lucian__03](https://x.com/lucian__03), [@intheworldofai](https://x.com/intheworldofai), [@RezAIT00](https://x.com/RezAIT00), [@Mr_Salio](https://x.com/Mr_Salio), [@ishuagra02](https://x.com/ishuagra02), [@anstapnever](https://x.com/anstapnever), [@notjazii](https://x.com/notjazii), [@SPAC89](https://x.com/SPAC89), [@vib3coded](https://x.com/vib3coded), [@pr0mptcat](https://x.com/pr0mptcat)
+[@chetaslua](https://x.com/chetaslua), [@marcthecreatorr](https://x.com/marcthecreatorr), [@LeeLinAI123](https://x.com/LeeLinAI123), [@lemomo_ai](https://x.com/lemomo_ai), [@lucian__03](https://x.com/lucian__03), [@intheworldofai](https://x.com/intheworldofai), [@RezAIT00](https://x.com/RezAIT00), [@Mr_Salio](https://x.com/Mr_Salio), [@ishuagra02](https://x.com/ishuagra02), [@anstapnever](https://x.com/anstapnever), [@notjazii](https://x.com/notjazii), [@SPAC89](https://x.com/SPAC89), [@vib3coded](https://x.com/vib3coded), [@pr0mptcat](https://x.com/pr0mptcat), [@RJasonHA](https://x.com/RJasonHA), [@j4kcdq](https://x.com/j4kcdq), [@GKev1n](https://x.com/GKev1n), [@RUTURAJ_ROCks](https://x.com/RUTURAJ_ROCks), [@shashin_bhaskar](https://x.com/shashin_bhaskar)
 
 Создайте issue, чтобы исправить указание источника или запросить удаление.

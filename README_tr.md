@@ -40,6 +40,8 @@ Her kayıtta kaynak, hesap, tarih ve görülebilen kanıt yer alır. Oyun kaydı
 
 - **2026-11-25** · Video Prompt Gallery düzenine geçtik ve kaynağı doğrulanan örnekler ekledik.
 
+- **2026-11-25** · Kaynağı doğrulanan 10 örnek ve iki açık istem eklendi.
+
 <a id="menu"></a>
 
 ## 📑 İçindekiler
@@ -47,9 +49,9 @@ Her kayıtta kaynak, hesap, tarih ve görülebilen kanıt yer alır. Oyun kaydı
 - [Giriş](#introduction)
 - [Hızlı başlangıç](#quick-start)
 - [Haberler](#news)
-- [🎬 Video ve animasyon](#video-and-animation) (13)
-- [🎮 3B oyunlar](#3d-games) (3)
-- [🧊 3B sahneler ve simülasyonlar](#3d-scenes-and-simulations) (7)
+- [🎬 Video ve animasyon](#video-and-animation) (18)
+- [🎮 3B oyunlar](#3d-games) (4)
+- [🧊 3B sahneler ve simülasyonlar](#3d-scenes-and-simulations) (11)
 - [İlgili depolar](#related-repositories)
 - [Teşekkürler](#acknowledge)
 
@@ -80,8 +82,13 @@ Her kayıtta kaynak, hesap, tarih ve görülebilen kanıt yer alır. Oyun kaydı
 </tr>
 <tr>
 <td width="33%" valign="top"><a id="case-23"></a><a href="prompts/tr/world-inside-a-watch.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125284651417645056/img/euIEhADK6eB7hk2z.jpg" alt="Saatin içindeki dünya" width="100%"></a><br><a href="https://x.com/RezAIT00/status/2125285225769164985"><b>Saatin içindeki dünya</b></a><br><sub><a href="https://x.com/RezAIT00">@RezAIT00</a> · <a href="prompts/tr/world-inside-a-watch.md">Demo</a></sub></td>
-<td width="33%" valign="top"></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top"><a id="case-24"></a><a href="prompts/tr/single-file-music-animation.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125514262726729728/img/2V8P7VI47XpsNOzS.jpg" alt="Tek dosyalık müzik animasyonu" width="100%"></a><br><a href="https://x.com/notjazii/status/2125517704031621562"><b>Tek dosyalık müzik animasyonu</b></a><br><sub><a href="https://x.com/notjazii">@notjazii</a> · <a href="prompts/tr/single-file-music-animation.md">Demo</a></sub></td>
+<td width="33%" valign="top"><a id="case-27"></a><a href="prompts/tr/new-york-voxel-history.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125362877443760128/img/7VBugZ6L8V63tNL9.jpg" alt="Voksellerle New York’un dört yüzyılı" width="100%"></a><br><a href="https://x.com/LeeLinAI123/status/2125362983278682164"><b>Voksellerle New York’un dört yüzyılı</b></a><br><sub><a href="https://x.com/LeeLinAI123">@LeeLinAI123</a> · <a href="prompts/tr/new-york-voxel-history.md">Demo</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a id="case-28"></a><a href="prompts/tr/running-cow-animation.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125141229705052160/img/No1-jUsTibX5oIQi.jpg" alt="Koşan inek animasyonu" width="100%"></a><br><a href="https://x.com/GKev1n/status/2125159991808061883"><b>Koşan inek animasyonu</b></a><br><sub><a href="https://x.com/GKev1n">@GKev1n</a> · <a href="prompts/tr/running-cow-animation.md">Demo</a></sub></td>
+<td width="33%" valign="top"><a id="case-29"></a><a href="prompts/tr/pelican-bmx-1980s-town.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125507196993875968/img/0KyUPzj9lO6yBfmK.jpg" alt="Seksenler kasabasında BMX süren pelikan" width="100%"></a><br><a href="https://x.com/RUTURAJ_ROCks/status/2125507492549710189"><b>Seksenler kasabasında BMX süren pelikan</b></a><br><sub><a href="https://x.com/RUTURAJ_ROCks">@RUTURAJ_ROCks</a> · <a href="prompts/tr/pelican-bmx-1980s-town.md">Prompt</a></sub></td>
+<td width="33%" valign="top"><a id="case-33"></a><a href="prompts/tr/pelican-ride-at-dusk.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125105087085486080/img/nU7FweEbYOtfFz49.jpg" alt="Gün batımında bisiklete binen pelikan" width="100%"></a><br><a href="https://x.com/GKev1n/status/2125114694113567093"><b>Gün batımında bisiklete binen pelikan</b></a><br><sub><a href="https://x.com/GKev1n">@GKev1n</a> · <a href="prompts/tr/pelican-ride-at-dusk.md">Demo</a></sub></td>
 </tr>
 </table>
 
@@ -94,6 +101,11 @@ Her kayıtta kaynak, hesap, tarih ve görülebilen kanıt yer alır. Oyun kaydı
 <td width="33%" valign="top"><a id="case-8"></a><a href="prompts/tr/voxel-sandbox.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125385254915457024/img/3e7xp74sz2aOdfMM.jpg" alt="Tek HTML dosyasında voksel oyunu" width="100%"></a><br><a href="https://x.com/intheworldofai/status/2125385407806284196"><b>Tek HTML dosyasında voksel oyunu</b></a><br><sub><a href="https://x.com/intheworldofai">@intheworldofai</a> · <a href="prompts/tr/voxel-sandbox.md">Demo</a></sub></td>
 <td width="33%" valign="top"><a id="case-9"></a><a href="prompts/tr/threejs-first-person-game.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125367649676713984/img/yhj7FLTQjONLAOS3.jpg" alt="Three.js birinci şahıs oyunu" width="100%"></a><br><a href="https://x.com/RezAIT00/status/2125368341002924390"><b>Three.js birinci şahıs oyunu</b></a><br><sub><a href="https://x.com/RezAIT00">@RezAIT00</a> · <a href="prompts/tr/threejs-first-person-game.md">Demo</a></sub></td>
 <td width="33%" valign="top"><a id="case-10"></a><a href="prompts/tr/tower-defense-trailer.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125222177028886528/img/I6nFGS4mAj0t9-js.jpg" alt="Kule savunması fragmanı" width="100%"></a><br><a href="https://x.com/Mr_Salio/status/2125222399809409109"><b>Kule savunması fragmanı</b></a><br><sub><a href="https://x.com/Mr_Salio">@Mr_Salio</a> · <a href="prompts/tr/tower-defense-trailer.md">Demo</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a id="case-30"></a><a href="prompts/tr/jensen-isometric-game.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125307091477024768/img/GC4tpBzn9P-JrpAd.jpg" alt="İzometrik Jensen oyunu demosu" width="100%"></a><br><a href="https://x.com/shashin_bhaskar/status/2125307163325415515"><b>İzometrik Jensen oyunu demosu</b></a><br><sub><a href="https://x.com/shashin_bhaskar">@shashin_bhaskar</a> · <a href="prompts/tr/jensen-isometric-game.md">Demo</a></sub></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 </table>
 
@@ -114,7 +126,12 @@ Her kayıtta kaynak, hesap, tarih ve görülebilen kanıt yer alır. Oyun kaydı
 </tr>
 <tr>
 <td width="33%" valign="top"><a id="case-22"></a><a href="prompts/tr/excavator-simulator.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125318296396599296/img/nsyj91V1XqpkBQnB.jpg" alt="Ekskavatör simülatörü" width="100%"></a><br><a href="https://x.com/lucian__03/status/2125410894939111807"><b>Ekskavatör simülatörü</b></a><br><sub><a href="https://x.com/lucian__03">@lucian__03</a> · <a href="prompts/tr/excavator-simulator.md">Demo</a></sub></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top"><a id="case-25"></a><a href="prompts/tr/rotating-black-hole.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125385738829340672/img/2Tmh7s1GYLPTrJFi.jpg" alt="Dönen kara delik simülasyonu" width="100%"></a><br><a href="https://x.com/RJasonHA/status/2125386093797478565"><b>Dönen kara delik simülasyonu</b></a><br><sub><a href="https://x.com/RJasonHA">@RJasonHA</a> · <a href="prompts/tr/rotating-black-hole.md">Prompt</a></sub></td>
+<td width="33%" valign="top"><a id="case-26"></a><a href="prompts/tr/webgl2-black-hole-variation.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125439116620001280/img/79_eNcWckKWWeTsq.jpg" alt="WebGL 2 kara delik varyasyonu" width="100%"></a><br><a href="https://x.com/j4kcdq/status/2125461482678944166"><b>WebGL 2 kara delik varyasyonu</b></a><br><sub><a href="https://x.com/j4kcdq">@j4kcdq</a> · <a href="prompts/tr/webgl2-black-hole-variation.md">Demo</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a id="case-31"></a><a href="prompts/tr/china-three-model-comparison.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125430694075572225/img/a_Nm8XoFF-whlmTa.jpg" alt="Çin sahnesinde üç model karşılaştırması" width="100%"></a><br><a href="https://x.com/RezAIT00/status/2125430728305369324"><b>Çin sahnesinde üç model karşılaştırması</b></a><br><sub><a href="https://x.com/RezAIT00">@RezAIT00</a> · <a href="prompts/tr/china-three-model-comparison.md">Demo</a></sub></td>
+<td width="33%" valign="top"><a id="case-32"></a><a href="prompts/tr/roadster-exploded-view.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125346669583589376/img/OUEuoXxmdQsvj4gp.jpg" alt="Roadster parçalarının animasyonu" width="100%"></a><br><a href="https://x.com/Mr_Salio/status/2125346704253755846"><b>Roadster parçalarının animasyonu</b></a><br><sub><a href="https://x.com/Mr_Salio">@Mr_Salio</a> · <a href="prompts/tr/roadster-exploded-view.md">Demo</a></sub></td>
 <td width="33%" valign="top"></td>
 </tr>
 </table>
@@ -131,6 +148,6 @@ Her kayıtta kaynak, hesap, tarih ve görülebilen kanıt yer alır. Oyun kaydı
 
 Örnekleri paylaşan hesaplara teşekkür ederiz.
 
-[@chetaslua](https://x.com/chetaslua), [@marcthecreatorr](https://x.com/marcthecreatorr), [@LeeLinAI123](https://x.com/LeeLinAI123), [@lemomo_ai](https://x.com/lemomo_ai), [@lucian__03](https://x.com/lucian__03), [@intheworldofai](https://x.com/intheworldofai), [@RezAIT00](https://x.com/RezAIT00), [@Mr_Salio](https://x.com/Mr_Salio), [@ishuagra02](https://x.com/ishuagra02), [@anstapnever](https://x.com/anstapnever), [@notjazii](https://x.com/notjazii), [@SPAC89](https://x.com/SPAC89), [@vib3coded](https://x.com/vib3coded), [@pr0mptcat](https://x.com/pr0mptcat)
+[@chetaslua](https://x.com/chetaslua), [@marcthecreatorr](https://x.com/marcthecreatorr), [@LeeLinAI123](https://x.com/LeeLinAI123), [@lemomo_ai](https://x.com/lemomo_ai), [@lucian__03](https://x.com/lucian__03), [@intheworldofai](https://x.com/intheworldofai), [@RezAIT00](https://x.com/RezAIT00), [@Mr_Salio](https://x.com/Mr_Salio), [@ishuagra02](https://x.com/ishuagra02), [@anstapnever](https://x.com/anstapnever), [@notjazii](https://x.com/notjazii), [@SPAC89](https://x.com/SPAC89), [@vib3coded](https://x.com/vib3coded), [@pr0mptcat](https://x.com/pr0mptcat), [@RJasonHA](https://x.com/RJasonHA), [@j4kcdq](https://x.com/j4kcdq), [@GKev1n](https://x.com/GKev1n), [@RUTURAJ_ROCks](https://x.com/RUTURAJ_ROCks), [@shashin_bhaskar](https://x.com/shashin_bhaskar)
 
 Kaynak bilgisini düzeltmek veya kaldırma istemek için bir sorun kaydı açın.

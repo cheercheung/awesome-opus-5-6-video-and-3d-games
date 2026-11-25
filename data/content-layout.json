@@ -259,6 +259,116 @@
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2125284651417645056/img/euIEhADK6eB7hk2z.jpg",
       "video": "https://x.com/i/videos/tweet/2125285225769164985",
       "prompt_sha256": null
+    },
+    {
+      "number": 24,
+      "category": "video-and-animation",
+      "slug": "single-file-music-animation",
+      "source": "https://x.com/notjazii/status/2125517704031621562",
+      "author": "https://x.com/notjazii",
+      "preview": "https://pbs.twimg.com/amplify_video_thumb/2125514262726729728/img/2V8P7VI47XpsNOzS.jpg",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125514262726729728/img/2V8P7VI47XpsNOzS.jpg",
+      "video": "https://x.com/i/videos/tweet/2125517704031621562",
+      "prompt_sha256": null
+    },
+    {
+      "number": 25,
+      "category": "3d-scenes-and-simulations",
+      "slug": "rotating-black-hole",
+      "source": "https://x.com/RJasonHA/status/2125386093797478565",
+      "author": "https://x.com/RJasonHA",
+      "preview": "https://pbs.twimg.com/amplify_video_thumb/2125385738829340672/img/2Tmh7s1GYLPTrJFi.jpg",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125385738829340672/img/2Tmh7s1GYLPTrJFi.jpg",
+      "video": "https://x.com/i/videos/tweet/2125386093797478565",
+      "prompt_sha256": "8e9ff1f2232c3824b420be67714778efd1eeaf26f749794e6bd3fd3127e24453"
+    },
+    {
+      "number": 26,
+      "category": "3d-scenes-and-simulations",
+      "slug": "webgl2-black-hole-variation",
+      "source": "https://x.com/j4kcdq/status/2125461482678944166",
+      "author": "https://x.com/j4kcdq",
+      "preview": "https://pbs.twimg.com/amplify_video_thumb/2125439116620001280/img/79_eNcWckKWWeTsq.jpg",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125439116620001280/img/79_eNcWckKWWeTsq.jpg",
+      "video": "https://x.com/i/videos/tweet/2125461482678944166",
+      "prompt_sha256": null
+    },
+    {
+      "number": 27,
+      "category": "video-and-animation",
+      "slug": "new-york-voxel-history",
+      "source": "https://x.com/LeeLinAI123/status/2125362983278682164",
+      "author": "https://x.com/LeeLinAI123",
+      "preview": "https://pbs.twimg.com/amplify_video_thumb/2125362877443760128/img/7VBugZ6L8V63tNL9.jpg",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125362877443760128/img/7VBugZ6L8V63tNL9.jpg",
+      "video": "https://x.com/i/videos/tweet/2125362983278682164",
+      "prompt_sha256": null
+    },
+    {
+      "number": 28,
+      "category": "video-and-animation",
+      "slug": "running-cow-animation",
+      "source": "https://x.com/GKev1n/status/2125159991808061883",
+      "author": "https://x.com/GKev1n",
+      "preview": "https://pbs.twimg.com/amplify_video_thumb/2125141229705052160/img/No1-jUsTibX5oIQi.jpg",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125141229705052160/img/No1-jUsTibX5oIQi.jpg",
+      "video": "https://x.com/i/videos/tweet/2125159991808061883",
+      "prompt_sha256": null
+    },
+    {
+      "number": 29,
+      "category": "video-and-animation",
+      "slug": "pelican-bmx-1980s-town",
+      "source": "https://x.com/RUTURAJ_ROCks/status/2125507492549710189",
+      "author": "https://x.com/RUTURAJ_ROCks",
+      "preview": "https://pbs.twimg.com/amplify_video_thumb/2125507196993875968/img/0KyUPzj9lO6yBfmK.jpg",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125507196993875968/img/0KyUPzj9lO6yBfmK.jpg",
+      "video": "https://x.com/i/videos/tweet/2125507492549710189",
+      "prompt_sha256": "717ecf2ffa586c0b9f42f34c29e4cde7638fb94a7df9b8f3fe978ead8f46f904"
+    },
+    {
+      "number": 30,
+      "category": "3d-games",
+      "slug": "jensen-isometric-game",
+      "source": "https://x.com/shashin_bhaskar/status/2125307163325415515",
+      "author": "https://x.com/shashin_bhaskar",
+      "preview": "https://pbs.twimg.com/amplify_video_thumb/2125307091477024768/img/GC4tpBzn9P-JrpAd.jpg",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125307091477024768/img/GC4tpBzn9P-JrpAd.jpg",
+      "video": "https://x.com/i/videos/tweet/2125307163325415515",
+      "prompt_sha256": null
+    },
+    {
+      "number": 31,
+      "category": "3d-scenes-and-simulations",
+      "slug": "china-three-model-comparison",
+      "source": "https://x.com/RezAIT00/status/2125430728305369324",
+      "author": "https://x.com/RezAIT00",
+      "preview": "https://pbs.twimg.com/amplify_video_thumb/2125430694075572225/img/a_Nm8XoFF-whlmTa.jpg",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125430694075572225/img/a_Nm8XoFF-whlmTa.jpg",
+      "video": "https://x.com/i/videos/tweet/2125430728305369324",
+      "prompt_sha256": null
+    },
+    {
+      "number": 32,
+      "category": "3d-scenes-and-simulations",
+      "slug": "roadster-exploded-view",
+      "source": "https://x.com/Mr_Salio/status/2125346704253755846",
+      "author": "https://x.com/Mr_Salio",
+      "preview": "https://pbs.twimg.com/amplify_video_thumb/2125346669583589376/img/OUEuoXxmdQsvj4gp.jpg",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125346669583589376/img/OUEuoXxmdQsvj4gp.jpg",
+      "video": "https://x.com/i/videos/tweet/2125346704253755846",
+      "prompt_sha256": null
+    },
+    {
+      "number": 33,
+      "category": "video-and-animation",
+      "slug": "pelican-ride-at-dusk",
+      "source": "https://x.com/GKev1n/status/2125114694113567093",
+      "author": "https://x.com/GKev1n",
+      "preview": "https://pbs.twimg.com/amplify_video_thumb/2125105087085486080/img/nU7FweEbYOtfFz49.jpg",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125105087085486080/img/nU7FweEbYOtfFz49.jpg",
+      "video": "https://x.com/i/videos/tweet/2125114694113567093",
+      "prompt_sha256": null
     }
   ]
 }

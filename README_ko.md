@@ -40,6 +40,8 @@
 
 - **2026-11-25** · Video Prompt Gallery로 전환하고 출처를 확인한 사례를 추가했습니다.
 
+- **2026-11-25** · 출처를 확인한 사례 10건과 공개 프롬프트 2건을 추가했습니다.
+
 <a id="menu"></a>
 
 ## 📑 목차
@@ -47,9 +49,9 @@
 - [소개](#introduction)
 - [빠른 시작](#quick-start)
 - [새 소식](#news)
-- [🎬 영상과 애니메이션](#video-and-animation) (13)
-- [🎮 3D 게임](#3d-games) (3)
-- [🧊 3D 장면과 시뮬레이션](#3d-scenes-and-simulations) (7)
+- [🎬 영상과 애니메이션](#video-and-animation) (18)
+- [🎮 3D 게임](#3d-games) (4)
+- [🧊 3D 장면과 시뮬레이션](#3d-scenes-and-simulations) (11)
 - [관련 저장소](#related-repositories)
 - [감사의 말](#acknowledge)
 
@@ -80,8 +82,13 @@
 </tr>
 <tr>
 <td width="33%" valign="top"><a id="case-23"></a><a href="prompts/ko/world-inside-a-watch.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125284651417645056/img/euIEhADK6eB7hk2z.jpg" alt="시계 속 세계" width="100%"></a><br><a href="https://x.com/RezAIT00/status/2125285225769164985"><b>시계 속 세계</b></a><br><sub><a href="https://x.com/RezAIT00">@RezAIT00</a> · <a href="prompts/ko/world-inside-a-watch.md">데모</a></sub></td>
-<td width="33%" valign="top"></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top"><a id="case-24"></a><a href="prompts/ko/single-file-music-animation.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125514262726729728/img/2V8P7VI47XpsNOzS.jpg" alt="단일 파일 음악 애니메이션" width="100%"></a><br><a href="https://x.com/notjazii/status/2125517704031621562"><b>단일 파일 음악 애니메이션</b></a><br><sub><a href="https://x.com/notjazii">@notjazii</a> · <a href="prompts/ko/single-file-music-animation.md">데모</a></sub></td>
+<td width="33%" valign="top"><a id="case-27"></a><a href="prompts/ko/new-york-voxel-history.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125362877443760128/img/7VBugZ6L8V63tNL9.jpg" alt="복셀로 본 뉴욕의 400년" width="100%"></a><br><a href="https://x.com/LeeLinAI123/status/2125362983278682164"><b>복셀로 본 뉴욕의 400년</b></a><br><sub><a href="https://x.com/LeeLinAI123">@LeeLinAI123</a> · <a href="prompts/ko/new-york-voxel-history.md">데모</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a id="case-28"></a><a href="prompts/ko/running-cow-animation.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125141229705052160/img/No1-jUsTibX5oIQi.jpg" alt="달리는 소 애니메이션" width="100%"></a><br><a href="https://x.com/GKev1n/status/2125159991808061883"><b>달리는 소 애니메이션</b></a><br><sub><a href="https://x.com/GKev1n">@GKev1n</a> · <a href="prompts/ko/running-cow-animation.md">데모</a></sub></td>
+<td width="33%" valign="top"><a id="case-29"></a><a href="prompts/ko/pelican-bmx-1980s-town.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125507196993875968/img/0KyUPzj9lO6yBfmK.jpg" alt="80년대 마을을 BMX로 달리는 펠리컨" width="100%"></a><br><a href="https://x.com/RUTURAJ_ROCks/status/2125507492549710189"><b>80년대 마을을 BMX로 달리는 펠리컨</b></a><br><sub><a href="https://x.com/RUTURAJ_ROCks">@RUTURAJ_ROCks</a> · <a href="prompts/ko/pelican-bmx-1980s-town.md">Prompt</a></sub></td>
+<td width="33%" valign="top"><a id="case-33"></a><a href="prompts/ko/pelican-ride-at-dusk.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125105087085486080/img/nU7FweEbYOtfFz49.jpg" alt="해 질 무렵 자전거를 타는 펠리컨" width="100%"></a><br><a href="https://x.com/GKev1n/status/2125114694113567093"><b>해 질 무렵 자전거를 타는 펠리컨</b></a><br><sub><a href="https://x.com/GKev1n">@GKev1n</a> · <a href="prompts/ko/pelican-ride-at-dusk.md">데모</a></sub></td>
 </tr>
 </table>
 
@@ -94,6 +101,11 @@
 <td width="33%" valign="top"><a id="case-8"></a><a href="prompts/ko/voxel-sandbox.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125385254915457024/img/3e7xp74sz2aOdfMM.jpg" alt="HTML 하나로 만든 복셀 샌드박스" width="100%"></a><br><a href="https://x.com/intheworldofai/status/2125385407806284196"><b>HTML 하나로 만든 복셀 샌드박스</b></a><br><sub><a href="https://x.com/intheworldofai">@intheworldofai</a> · <a href="prompts/ko/voxel-sandbox.md">데모</a></sub></td>
 <td width="33%" valign="top"><a id="case-9"></a><a href="prompts/ko/threejs-first-person-game.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125367649676713984/img/yhj7FLTQjONLAOS3.jpg" alt="Three.js 1인칭 게임" width="100%"></a><br><a href="https://x.com/RezAIT00/status/2125368341002924390"><b>Three.js 1인칭 게임</b></a><br><sub><a href="https://x.com/RezAIT00">@RezAIT00</a> · <a href="prompts/ko/threejs-first-person-game.md">데모</a></sub></td>
 <td width="33%" valign="top"><a id="case-10"></a><a href="prompts/ko/tower-defense-trailer.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125222177028886528/img/I6nFGS4mAj0t9-js.jpg" alt="타워 디펜스 예고편" width="100%"></a><br><a href="https://x.com/Mr_Salio/status/2125222399809409109"><b>타워 디펜스 예고편</b></a><br><sub><a href="https://x.com/Mr_Salio">@Mr_Salio</a> · <a href="prompts/ko/tower-defense-trailer.md">데모</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a id="case-30"></a><a href="prompts/ko/jensen-isometric-game.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125307091477024768/img/GC4tpBzn9P-JrpAd.jpg" alt="등각 시점 젠슨 게임 데모" width="100%"></a><br><a href="https://x.com/shashin_bhaskar/status/2125307163325415515"><b>등각 시점 젠슨 게임 데모</b></a><br><sub><a href="https://x.com/shashin_bhaskar">@shashin_bhaskar</a> · <a href="prompts/ko/jensen-isometric-game.md">데모</a></sub></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 </table>
 
@@ -114,7 +126,12 @@
 </tr>
 <tr>
 <td width="33%" valign="top"><a id="case-22"></a><a href="prompts/ko/excavator-simulator.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125318296396599296/img/nsyj91V1XqpkBQnB.jpg" alt="굴착기 시뮬레이터" width="100%"></a><br><a href="https://x.com/lucian__03/status/2125410894939111807"><b>굴착기 시뮬레이터</b></a><br><sub><a href="https://x.com/lucian__03">@lucian__03</a> · <a href="prompts/ko/excavator-simulator.md">데모</a></sub></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top"><a id="case-25"></a><a href="prompts/ko/rotating-black-hole.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125385738829340672/img/2Tmh7s1GYLPTrJFi.jpg" alt="회전하는 블랙홀 시뮬레이션" width="100%"></a><br><a href="https://x.com/RJasonHA/status/2125386093797478565"><b>회전하는 블랙홀 시뮬레이션</b></a><br><sub><a href="https://x.com/RJasonHA">@RJasonHA</a> · <a href="prompts/ko/rotating-black-hole.md">Prompt</a></sub></td>
+<td width="33%" valign="top"><a id="case-26"></a><a href="prompts/ko/webgl2-black-hole-variation.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125439116620001280/img/79_eNcWckKWWeTsq.jpg" alt="WebGL 2 블랙홀 변형" width="100%"></a><br><a href="https://x.com/j4kcdq/status/2125461482678944166"><b>WebGL 2 블랙홀 변형</b></a><br><sub><a href="https://x.com/j4kcdq">@j4kcdq</a> · <a href="prompts/ko/webgl2-black-hole-variation.md">데모</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a id="case-31"></a><a href="prompts/ko/china-three-model-comparison.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125430694075572225/img/a_Nm8XoFF-whlmTa.jpg" alt="중국 풍경의 세 모델 비교" width="100%"></a><br><a href="https://x.com/RezAIT00/status/2125430728305369324"><b>중국 풍경의 세 모델 비교</b></a><br><sub><a href="https://x.com/RezAIT00">@RezAIT00</a> · <a href="prompts/ko/china-three-model-comparison.md">데모</a></sub></td>
+<td width="33%" valign="top"><a id="case-32"></a><a href="prompts/ko/roadster-exploded-view.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125346669583589376/img/OUEuoXxmdQsvj4gp.jpg" alt="로드스터 분해도 애니메이션" width="100%"></a><br><a href="https://x.com/Mr_Salio/status/2125346704253755846"><b>로드스터 분해도 애니메이션</b></a><br><sub><a href="https://x.com/Mr_Salio">@Mr_Salio</a> · <a href="prompts/ko/roadster-exploded-view.md">데모</a></sub></td>
 <td width="33%" valign="top"></td>
 </tr>
 </table>
@@ -131,6 +148,6 @@
 
 사례를 공유한 게시자에게 감사드립니다.
 
-[@chetaslua](https://x.com/chetaslua), [@marcthecreatorr](https://x.com/marcthecreatorr), [@LeeLinAI123](https://x.com/LeeLinAI123), [@lemomo_ai](https://x.com/lemomo_ai), [@lucian__03](https://x.com/lucian__03), [@intheworldofai](https://x.com/intheworldofai), [@RezAIT00](https://x.com/RezAIT00), [@Mr_Salio](https://x.com/Mr_Salio), [@ishuagra02](https://x.com/ishuagra02), [@anstapnever](https://x.com/anstapnever), [@notjazii](https://x.com/notjazii), [@SPAC89](https://x.com/SPAC89), [@vib3coded](https://x.com/vib3coded), [@pr0mptcat](https://x.com/pr0mptcat)
+[@chetaslua](https://x.com/chetaslua), [@marcthecreatorr](https://x.com/marcthecreatorr), [@LeeLinAI123](https://x.com/LeeLinAI123), [@lemomo_ai](https://x.com/lemomo_ai), [@lucian__03](https://x.com/lucian__03), [@intheworldofai](https://x.com/intheworldofai), [@RezAIT00](https://x.com/RezAIT00), [@Mr_Salio](https://x.com/Mr_Salio), [@ishuagra02](https://x.com/ishuagra02), [@anstapnever](https://x.com/anstapnever), [@notjazii](https://x.com/notjazii), [@SPAC89](https://x.com/SPAC89), [@vib3coded](https://x.com/vib3coded), [@pr0mptcat](https://x.com/pr0mptcat), [@RJasonHA](https://x.com/RJasonHA), [@j4kcdq](https://x.com/j4kcdq), [@GKev1n](https://x.com/GKev1n), [@RUTURAJ_ROCks](https://x.com/RUTURAJ_ROCks), [@shashin_bhaskar](https://x.com/shashin_bhaskar)
 
 출처 수정 또는 삭제 요청은 이슈를 열어 알려 주세요.
