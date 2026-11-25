@@ -1,198 +1,123 @@
 <div align="center">
 
-<a href="#overview"><img src="images/en.png" alt="Claude Opus 5.6 영상, 애니메이션, 3D 게임" width="760"></a>
+<a href="#menu"><img src="images/en.png" alt="Claude Opus 5.6 영상, 애니메이션, 3D 게임" width="760"></a>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 
-[![English](https://img.shields.io/badge/English-111111)](README.md)
-[![Español](https://img.shields.io/badge/Espa%C3%B1ol-ffb703)](README_es.md)
-[![Português](https://img.shields.io/badge/Portugu%C3%AAs-2a9d8f)](README_pt.md)
-[![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-52b788)](README_ja.md)
-[![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-4ea8de)](README_ko.md)
-[![Deutsch](https://img.shields.io/badge/Deutsch-f4a261)](README_de.md)
-[![Français](https://img.shields.io/badge/Fran%C3%A7ais-e76f51)](README_fr.md)
-[![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-d62828)](README_tr.md)
-[![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-8338ec)](README_zh-TW.md)
-[![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-ef476f)](README_zh-CN.md)
-[![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-577590)](README_ru.md)
+[![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
+[![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
+[![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md)
+[![🇯🇵 日本語](https://img.shields.io/badge/🇯🇵_日本語-表示-52b788)](README_ja.md)
+[![🇰🇷 한국어](https://img.shields.io/badge/🇰🇷_한국어-보기-4ea8de)](README_ko.md)
+[![🇩🇪 Deutsch](https://img.shields.io/badge/🇩🇪_Deutsch-Ansehen-f4a261)](README_de.md)
+[![🇫🇷 Français](https://img.shields.io/badge/🇫🇷_Français-Voir-e76f51)](README_fr.md)
+[![🇹🇷 Türkçe](https://img.shields.io/badge/🇹🇷_Türkçe-Görüntüle-d62828)](README_tr.md)
+[![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md)
+[![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md)
+[![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
 
 </div>
 
-# Claude Opus 5.6 영상, 애니메이션, 3D 게임
+# awesome-opus 5.6 for video and 3d games
+
+<a id="introduction"></a>
 
 ## 🍌 소개
 
-커뮤니티에서 Claude Opus 5.6으로 만들었다고 소개한 코드 기반 영상, 애니메이션, 3D 게임을 모았습니다. 게시물은 제한 테스트 기간에 공개되었습니다.
+단편 영상, 애니메이션, 3D 게임을 모은 독립 컬렉션입니다. 공개 프롬프트와 데모를 구분합니다. 게시물은 제한 테스트 기간에 공개되었습니다.
 
-<a id="overview"></a>
-
-## 📊 개요
-
-**총 10건 · 영상·애니메이션 7건 · 3D 게임 3건.**
-
-> [!NOTE]
-> 각 사례에는 출처, 게시 계정, 날짜, 확인 가능한 증거를 기록했습니다. 플레이 영상이나 예고편만으로 실제 플레이 가능 여부를 확인할 수는 없습니다.
+각 사례에는 출처, 게시 계정, 날짜, 확인 가능한 증거를 기록했습니다. 플레이 영상이나 예고편만으로 실제 플레이 가능 여부를 확인할 수는 없습니다.
 
 <a id="quick-start"></a>
 
 ## ⚡ 빠른 시작
 
-목차에서 사례를 선택하고 원본 게시물에서 예시와 게시자의 설명을 살펴보세요.
+목차에서 사례를 선택하고 원본 게시물에서 예시와 게시자의 설명을 살펴보세요. [목차](#menu)
 
-[목차](#menu)
+<a id="news"></a>
+
+## 📰 새 소식
+
+- **2026-11-25** · Video Prompt Gallery로 전환하고 출처를 확인한 사례를 추가했습니다.
 
 <a id="menu"></a>
 
 ## 📑 목차
 
-| 사례 | 분류 | 살펴볼 점 | 유형 |
-|---|---|---|---|
-| [The Tea Ride](#case-1) | 영상과 애니메이션 | Three.js 단편이 한 장면을 82초 동안 어떻게 유지하는지 보세요. | 데모 |
-| [구름 위의 불사조](#case-2) | 영상과 애니메이션 | 코드로 구현한 단편에서 큰 피사체를 어떻게 연출하는지 살펴보세요. | 데모 |
-| [여우 SVG 루프 비교](#case-3) | 영상과 애니메이션 | 동작과 반복 구간의 연결을 나란히 비교해 보세요. | 평가 |
-| [코드로 합성한 노랫소리](#case-4) | 영상과 애니메이션 | 합성 보컬과 영상의 조합을 살펴보세요. | 데모 |
-| [Python 천문대 애니메이션](#case-5) | 영상과 애니메이션 | Python으로 프레임마다 그린 애니메이션을 확인해 보세요. | 데모 |
-| [서예 기계](#case-6) | 영상과 애니메이션 | 먹의 번짐과 초점을 확인해 보세요. | 한계 |
-| [기계식 시계 분해 애니메이션](#case-7) | 영상과 애니메이션 | 부품이 분리되고 다시 조립되는 과정을 살펴보세요. | 데모 |
-| [HTML 하나로 만든 복셀 샌드박스](#case-8) | 3D 게임 | 복셀 샌드박스의 조명과 움직임을 살펴보세요. | 데모 |
-| [Three.js 1인칭 게임](#case-9) | 3D 게임 | 영상에서 1인칭 움직임과 레벨 구성을 살펴보세요. | 데모 |
-| [타워 디펜스 예고편](#case-10) | 3D 게임 | 예고편에서 게임의 시각 연출을 살펴보세요. | 데모 |
+- [소개](#introduction)
+- [빠른 시작](#quick-start)
+- [새 소식](#news)
+- [🎬 영상과 애니메이션](#video-and-animation) (13)
+- [🎮 3D 게임](#3d-games) (3)
+- [🧊 3D 장면과 시뮬레이션](#3d-scenes-and-simulations) (7)
+- [관련 저장소](#related-repositories)
+- [감사의 말](#acknowledge)
 
-[개요](#overview) · [빠른 시작](#quick-start) · [관련 저장소](#related-repositories) · [감사의 말](#acknowledge)
+<a id="video-and-animation"></a>
 
 ## 🎬 영상과 애니메이션
 
-<a id="case-1"></a>
-### 사례 1: [The Tea Ride](https://x.com/chetaslua/status/2125253343480275008) (by [@chetaslua](https://x.com/chetaslua))
+<table>
+<tr>
+<td width="33%" valign="top"><a id="case-1"></a><a href="prompts/ko/the-tea-ride.md"><img src="https://pbs.twimg.com/media/HX5qW2IaMAAtDJk.jpg" alt="The Tea Ride" width="100%"></a><br><a href="https://x.com/chetaslua/status/2125253343480275008"><b>The Tea Ride</b></a><br><sub><a href="https://x.com/chetaslua">@chetaslua</a> · <a href="prompts/ko/the-tea-ride.md">데모</a></sub></td>
+<td width="33%" valign="top"><a id="case-2"></a><a href="prompts/ko/phoenix-above-the-clouds.md"><img src="https://pbs.twimg.com/media/HX5R33qacAEzyHm.jpg" alt="구름 위의 불사조" width="100%"></a><br><a href="https://x.com/chetaslua/status/2125226204764733481"><b>구름 위의 불사조</b></a><br><sub><a href="https://x.com/chetaslua">@chetaslua</a> · <a href="prompts/ko/phoenix-above-the-clouds.md">Prompt</a></sub></td>
+<td width="33%" valign="top"><a id="case-3"></a><a href="prompts/ko/fox-svg-loop.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125254332035588096/img/4TLDVUoh4vKvKS63.jpg" alt="여우 SVG 루프 비교" width="100%"></a><br><a href="https://x.com/marcthecreatorr/status/2125254550416175477"><b>여우 SVG 루프 비교</b></a><br><sub><a href="https://x.com/marcthecreatorr">@marcthecreatorr</a> · <a href="prompts/ko/fox-svg-loop.md">데모</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a id="case-4"></a><a href="prompts/ko/code-synthesized-singing.md"><img src="https://pbs.twimg.com/media/HX6KCg-asAA9ATP.jpg" alt="코드로 합성한 노랫소리" width="100%"></a><br><a href="https://x.com/chetaslua/status/2125288009990103316"><b>코드로 합성한 노랫소리</b></a><br><sub><a href="https://x.com/chetaslua">@chetaslua</a> · <a href="prompts/ko/code-synthesized-singing.md">데모</a></sub></td>
+<td width="33%" valign="top"><a id="case-5"></a><a href="prompts/ko/python-observatory.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125402659230265344/img/PksP1BT2REMGbk2Z.jpg" alt="Python 천문대 애니메이션" width="100%"></a><br><a href="https://x.com/LeeLinAI123/status/2125403314221142191"><b>Python 천문대 애니메이션</b></a><br><sub><a href="https://x.com/LeeLinAI123">@LeeLinAI123</a> · <a href="prompts/ko/python-observatory.md">데모</a></sub></td>
+<td width="33%" valign="top"><a id="case-6"></a><a href="prompts/ko/calligraphy-machine.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125247132798242816/img/XovoCdPDFXuocPoT.jpg" alt="서예 기계" width="100%"></a><br><a href="https://x.com/lemomo_ai/status/2125250592243155013"><b>서예 기계</b></a><br><sub><a href="https://x.com/lemomo_ai">@lemomo_ai</a> · <a href="prompts/ko/calligraphy-machine.md">데모</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a id="case-7"></a><a href="prompts/ko/mechanical-watch.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125300830505185281/img/BsWkDNpHEXS2JW-0.jpg" alt="기계식 시계 분해 애니메이션" width="100%"></a><br><a href="https://x.com/lucian__03/status/2125364841858953393"><b>기계식 시계 분해 애니메이션</b></a><br><sub><a href="https://x.com/lucian__03">@lucian__03</a> · <a href="prompts/ko/mechanical-watch.md">데모</a></sub></td>
+<td width="33%" valign="top"><a id="case-11"></a><a href="prompts/ko/code-rendered-anime-short.md"><img src="https://pbs.twimg.com/media/HX6yAgjbMAANFQv.jpg" alt="코드로 만든 애니메이션 단편" width="100%"></a><br><a href="https://x.com/chetaslua/status/2125331978891461023"><b>코드로 만든 애니메이션 단편</b></a><br><sub><a href="https://x.com/chetaslua">@chetaslua</a> · <a href="prompts/ko/code-rendered-anime-short.md">데모</a></sub></td>
+<td width="33%" valign="top"><a id="case-12"></a><a href="prompts/ko/icy-mountain.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125255482025607168/img/DNC99z5ZAQIsXe8u.jpg" alt="얼음산 장면" width="100%"></a><br><a href="https://x.com/Mr_Salio/status/2125255537122046339"><b>얼음산 장면</b></a><br><sub><a href="https://x.com/Mr_Salio">@Mr_Salio</a> · <a href="prompts/ko/icy-mountain.md">데모</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a id="case-13"></a><a href="prompts/ko/human-cultures-animation.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125339691155390464/img/xrZ2wet6OhXfQ_K2.jpg" alt="애니메이션으로 보는 문화사" width="100%"></a><br><a href="https://x.com/ishuagra02/status/2125345032697999523"><b>애니메이션으로 보는 문화사</b></a><br><sub><a href="https://x.com/ishuagra02">@ishuagra02</a> · <a href="prompts/ko/human-cultures-animation.md">데모</a></sub></td>
+<td width="33%" valign="top"><a id="case-14"></a><a href="prompts/ko/capybara-action-short.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125334688239869953/img/h5k6snzvTLrExi9H.jpg" alt="카피바라 액션 단편" width="100%"></a><br><a href="https://x.com/anstapnever/status/2125334916305231885"><b>카피바라 액션 단편</b></a><br><sub><a href="https://x.com/anstapnever">@anstapnever</a> · <a href="prompts/ko/capybara-action-short.md">Prompt</a></sub></td>
+<td width="33%" valign="top"><a id="case-15"></a><a href="prompts/ko/pelican-bicycle.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125235207796391936/img/Zo5usF7ti_qp43G7.jpg" alt="자전거를 타는 펠리컨" width="100%"></a><br><a href="https://x.com/notjazii/status/2125235869716287677"><b>자전거를 타는 펠리컨</b></a><br><sub><a href="https://x.com/notjazii">@notjazii</a> · <a href="prompts/ko/pelican-bicycle.md">데모</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a id="case-23"></a><a href="prompts/ko/world-inside-a-watch.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125284651417645056/img/euIEhADK6eB7hk2z.jpg" alt="시계 속 세계" width="100%"></a><br><a href="https://x.com/RezAIT00/status/2125285225769164985"><b>시계 속 세계</b></a><br><sub><a href="https://x.com/RezAIT00">@RezAIT00</a> · <a href="prompts/ko/world-inside-a-watch.md">데모</a></sub></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
+</tr>
+</table>
 
-**Three.js 단편이 한 장면을 82초 동안 어떻게 유지하는지 보세요.**
-
-게시물은 애니메이션을 보여 주며 외부 에셋을 사용하지 않았다고 설명합니다.
-
-**모델 귀속:** 게시 계정은 Opus 5.6이라고 밝혔습니다. 정확한 모델은 확인되지 않았습니다.
-
-Type: 데모 | Date: 2026-11-24
-
----
-
-<a id="case-2"></a>
-### 사례 2: [구름 위의 불사조](https://x.com/chetaslua/status/2125226204764733481) (by [@chetaslua](https://x.com/chetaslua))
-
-**코드로 구현한 단편에서 큰 피사체를 어떻게 연출하는지 살펴보세요.**
-
-게시물은 불사조 애니메이션을 보여 주며 순수 코드로 제작했다고 설명합니다.
-
-**모델 귀속:** 게시 계정은 Opus 5.6이라고 밝혔습니다. 정확한 모델은 확인되지 않았습니다.
-
-Type: 데모 | Date: 2026-11-24
-
----
-
-<a id="case-3"></a>
-### 사례 3: [여우 SVG 루프 비교](https://x.com/marcthecreatorr/status/2125254550416175477) (by [@marcthecreatorr](https://x.com/marcthecreatorr))
-
-**동작과 반복 구간의 연결을 나란히 비교해 보세요.**
-
-게시자는 두 버전에 같은 프롬프트를 사용했다고 밝혔습니다. 영상은 한 번의 비교를 보여 줍니다.
-
-**모델 귀속:** 게시 계정은 Opus 5.6이라고 밝혔습니다. 정확한 모델은 확인되지 않았습니다.
-
-Type: 평가 | Date: 2026-11-24
-
----
-
-<a id="case-4"></a>
-### 사례 4: [코드로 합성한 노랫소리](https://x.com/chetaslua/status/2125288009990103316) (by [@chetaslua](https://x.com/chetaslua))
-
-**합성 보컬과 영상의 조합을 살펴보세요.**
-
-게시자는 소리와 영상 모두 코드로 만들었으며 TTS를 사용하지 않았다고 설명합니다.
-
-**모델 귀속:** 게시 계정은 Opus 5.6이라고 밝혔습니다. 정확한 모델은 확인되지 않았습니다.
-
-Type: 데모 | Date: 2026-11-24
-
----
-
-<a id="case-5"></a>
-### 사례 5: [Python 천문대 애니메이션](https://x.com/LeeLinAI123/status/2125403314221142191) (by [@LeeLinAI123](https://x.com/LeeLinAI123))
-
-**Python으로 프레임마다 그린 애니메이션을 확인해 보세요.**
-
-게시자는 모든 프레임을 Python으로 그렸으며 별도 이미지나 영상 모델을 사용하지 않았다고 밝혔습니다.
-
-**모델 귀속:** 게시 계정은 Opus 5.6이라고 밝혔습니다. 정확한 모델은 확인되지 않았습니다.
-
-Type: 데모 | Date: 2026-11-25
-
----
-
-<a id="case-6"></a>
-### 사례 6: [서예 기계](https://x.com/lemomo_ai/status/2125250592243155013) (by [@lemomo_ai](https://x.com/lemomo_ai))
-
-**먹의 번짐과 초점을 확인해 보세요.**
-
-게시자는 한 번의 시도 결과를 올리고 먹이 번지지 않는 점과 초점 문제를 짚었습니다.
-
-**모델 귀속:** 게시 계정은 Opus 5.6이라고 밝혔습니다. 정확한 모델은 확인되지 않았습니다.
-
-Type: 한계 | Date: 2026-11-24
-
----
-
-<a id="case-7"></a>
-### 사례 7: [기계식 시계 분해 애니메이션](https://x.com/lucian__03/status/2125364841858953393) (by [@lucian__03](https://x.com/lucian__03))
-
-**부품이 분리되고 다시 조립되는 과정을 살펴보세요.**
-
-영상은 톱니바퀴와 스프링 장치, 분해 및 재조립 과정을 보여 줍니다.
-
-**모델 귀속:** 게시 계정은 Opus 5.6이라고 밝혔습니다. 정확한 모델은 확인되지 않았습니다.
-
-Type: 데모 | Date: 2026-11-24
-
----
+<a id="3d-games"></a>
 
 ## 🎮 3D 게임
 
-<a id="case-8"></a>
-### 사례 8: [HTML 하나로 만든 복셀 샌드박스](https://x.com/intheworldofai/status/2125385407806284196) (by [@intheworldofai](https://x.com/intheworldofai))
+<table>
+<tr>
+<td width="33%" valign="top"><a id="case-8"></a><a href="prompts/ko/voxel-sandbox.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125385254915457024/img/3e7xp74sz2aOdfMM.jpg" alt="HTML 하나로 만든 복셀 샌드박스" width="100%"></a><br><a href="https://x.com/intheworldofai/status/2125385407806284196"><b>HTML 하나로 만든 복셀 샌드박스</b></a><br><sub><a href="https://x.com/intheworldofai">@intheworldofai</a> · <a href="prompts/ko/voxel-sandbox.md">데모</a></sub></td>
+<td width="33%" valign="top"><a id="case-9"></a><a href="prompts/ko/threejs-first-person-game.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125367649676713984/img/yhj7FLTQjONLAOS3.jpg" alt="Three.js 1인칭 게임" width="100%"></a><br><a href="https://x.com/RezAIT00/status/2125368341002924390"><b>Three.js 1인칭 게임</b></a><br><sub><a href="https://x.com/RezAIT00">@RezAIT00</a> · <a href="prompts/ko/threejs-first-person-game.md">데모</a></sub></td>
+<td width="33%" valign="top"><a id="case-10"></a><a href="prompts/ko/tower-defense-trailer.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125222177028886528/img/I6nFGS4mAj0t9-js.jpg" alt="타워 디펜스 예고편" width="100%"></a><br><a href="https://x.com/Mr_Salio/status/2125222399809409109"><b>타워 디펜스 예고편</b></a><br><sub><a href="https://x.com/Mr_Salio">@Mr_Salio</a> · <a href="prompts/ko/tower-defense-trailer.md">데모</a></sub></td>
+</tr>
+</table>
 
-**복셀 샌드박스의 조명과 움직임을 살펴보세요.**
+<a id="3d-scenes-and-simulations"></a>
 
-게시물은 여러 모드를 갖춘 단일 HTML 파일을 설명합니다. 확인할 수 있는 자료는 녹화 영상입니다.
+## 🧊 3D 장면과 시뮬레이션
 
-**모델 귀속:** 게시 계정은 Opus 5.6이라고 밝혔습니다. 정확한 모델은 확인되지 않았습니다.
-
-Type: 데모 | Date: 2026-11-25
-
----
-
-<a id="case-9"></a>
-### 사례 9: [Three.js 1인칭 게임](https://x.com/RezAIT00/status/2125368341002924390) (by [@RezAIT00](https://x.com/RezAIT00))
-
-**영상에서 1인칭 움직임과 레벨 구성을 살펴보세요.**
-
-게시자는 Three.js를 사용해 세 시간 만에 만들었다고 밝혔습니다. 실제 플레이 가능 여부는 미확인 상태입니다.
-
-**모델 귀속:** 게시 계정은 Opus 5.6이라고 밝혔습니다. 정확한 모델은 확인되지 않았습니다.
-
-Type: 데모 | Date: 2026-11-24
-
----
-
-<a id="case-10"></a>
-### 사례 10: [타워 디펜스 예고편](https://x.com/Mr_Salio/status/2125222399809409109) (by [@Mr_Salio](https://x.com/Mr_Salio))
-
-**예고편에서 게임의 시각 연출을 살펴보세요.**
-
-게시자는 20단어 프롬프트 한 번으로 플레이 가능한 초안을 만들었다고 합니다. 링크에서 볼 수 있는 자료는 예고편입니다.
-
-**모델 귀속:** 게시 계정은 Opus 5.6이라고 밝혔습니다. 정확한 모델은 확인되지 않았습니다.
-
-Type: 데모 | Date: 2026-11-24
-
----
+<table>
+<tr>
+<td width="33%" valign="top"><a id="case-16"></a><a href="prompts/ko/car-render-comparison.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125161720335208448/img/4RZNtFV1pavfIhau.jpg" alt="자동차 렌더링 두 가지 비교" width="100%"></a><br><a href="https://x.com/RezAIT00/status/2125161952263442564"><b>자동차 렌더링 두 가지 비교</b></a><br><sub><a href="https://x.com/RezAIT00">@RezAIT00</a> · <a href="prompts/ko/car-render-comparison.md">데모</a></sub></td>
+<td width="33%" valign="top"><a id="case-17"></a><a href="prompts/ko/tokyo-in-one-pass.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125069034756390912/img/Xd4l46Ntnl64wbi-.jpg" alt="한 번에 만든 도쿄 장면" width="100%"></a><br><a href="https://x.com/RezAIT00/status/2125069082093359527"><b>한 번에 만든 도쿄 장면</b></a><br><sub><a href="https://x.com/RezAIT00">@RezAIT00</a> · <a href="prompts/ko/tokyo-in-one-pass.md">데모</a></sub></td>
+<td width="33%" valign="top"><a id="case-18"></a><a href="prompts/ko/curved-sculptures.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125259834840731648/img/Md7Ba9Zgq8GIsnZD.jpg" alt="곡면 조각 비교" width="100%"></a><br><a href="https://x.com/SPAC89/status/2125260198654644288"><b>곡면 조각 비교</b></a><br><sub><a href="https://x.com/SPAC89">@SPAC89</a> · <a href="prompts/ko/curved-sculptures.md">데모</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a id="case-19"></a><a href="prompts/ko/threejs-tank-model.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125312834934358016/img/fPar8AfxDl2aCJ9e.jpg" alt="Three.js 전차 모델 비교" width="100%"></a><br><a href="https://x.com/vib3coded/status/2125313222488252689"><b>Three.js 전차 모델 비교</b></a><br><sub><a href="https://x.com/vib3coded">@vib3coded</a> · <a href="prompts/ko/threejs-tank-model.md">데모</a></sub></td>
+<td width="33%" valign="top"><a id="case-20"></a><a href="prompts/ko/interactive-pirate-ship.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125248726562439168/img/pA8dK8JgdY1eA_on.jpg" alt="상호작용하는 해적선" width="100%"></a><br><a href="https://x.com/notjazii/status/2125249122685129131"><b>상호작용하는 해적선</b></a><br><sub><a href="https://x.com/notjazii">@notjazii</a> · <a href="prompts/ko/interactive-pirate-ship.md">데모</a></sub></td>
+<td width="33%" valign="top"><a id="case-21"></a><a href="prompts/ko/ship-scene-timing.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125301145312600064/img/zDcFZz4fe_ZOCaUg.jpg" alt="3D 선박 장면 시간 비교" width="100%"></a><br><a href="https://x.com/pr0mptcat/status/2125301257439170740"><b>3D 선박 장면 시간 비교</b></a><br><sub><a href="https://x.com/pr0mptcat">@pr0mptcat</a> · <a href="prompts/ko/ship-scene-timing.md">데모</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a id="case-22"></a><a href="prompts/ko/excavator-simulator.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125318296396599296/img/nsyj91V1XqpkBQnB.jpg" alt="굴착기 시뮬레이터" width="100%"></a><br><a href="https://x.com/lucian__03/status/2125410894939111807"><b>굴착기 시뮬레이터</b></a><br><sub><a href="https://x.com/lucian__03">@lucian__03</a> · <a href="prompts/ko/excavator-simulator.md">데모</a></sub></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
+</tr>
+</table>
 
 <a id="related-repositories"></a>
 
@@ -206,6 +131,6 @@ Type: 데모 | Date: 2026-11-24
 
 사례를 공유한 게시자에게 감사드립니다.
 
-[@chetaslua](https://x.com/chetaslua), [@marcthecreatorr](https://x.com/marcthecreatorr), [@LeeLinAI123](https://x.com/LeeLinAI123), [@lemomo_ai](https://x.com/lemomo_ai), [@lucian__03](https://x.com/lucian__03), [@intheworldofai](https://x.com/intheworldofai), [@RezAIT00](https://x.com/RezAIT00), [@Mr_Salio](https://x.com/Mr_Salio)
+[@chetaslua](https://x.com/chetaslua), [@marcthecreatorr](https://x.com/marcthecreatorr), [@LeeLinAI123](https://x.com/LeeLinAI123), [@lemomo_ai](https://x.com/lemomo_ai), [@lucian__03](https://x.com/lucian__03), [@intheworldofai](https://x.com/intheworldofai), [@RezAIT00](https://x.com/RezAIT00), [@Mr_Salio](https://x.com/Mr_Salio), [@ishuagra02](https://x.com/ishuagra02), [@anstapnever](https://x.com/anstapnever), [@notjazii](https://x.com/notjazii), [@SPAC89](https://x.com/SPAC89), [@vib3coded](https://x.com/vib3coded), [@pr0mptcat](https://x.com/pr0mptcat)
 
 출처 수정 또는 삭제 요청은 이슈를 열어 알려 주세요.

@@ -1,0 +1,264 @@
+{
+  "schema_version": 1,
+  "layout": "video-gallery",
+  "categories": [
+    "video-and-animation",
+    "3d-games",
+    "3d-scenes-and-simulations"
+  ],
+  "cases": [
+    {
+      "number": 1,
+      "category": "video-and-animation",
+      "slug": "the-tea-ride",
+      "source": "https://x.com/chetaslua/status/2125253343480275008",
+      "author": "https://x.com/chetaslua",
+      "preview": "https://pbs.twimg.com/media/HX5qW2IaMAAtDJk.jpg",
+      "poster": "https://pbs.twimg.com/media/HX5qW2IaMAAtDJk.jpg",
+      "video": "https://platform.twitter.com/embed/Tweet.html?id=2125253343480275008",
+      "prompt_sha256": null
+    },
+    {
+      "number": 2,
+      "category": "video-and-animation",
+      "slug": "phoenix-above-the-clouds",
+      "source": "https://x.com/chetaslua/status/2125226204764733481",
+      "author": "https://x.com/chetaslua",
+      "preview": "https://pbs.twimg.com/media/HX5R33qacAEzyHm.jpg",
+      "poster": "https://pbs.twimg.com/media/HX5R33qacAEzyHm.jpg",
+      "video": "https://x.com/i/videos/tweet/2125226204764733481",
+      "prompt_sha256": "e70ba2dd78344c126771127538a28b15c8254784821f9c96fcc56c6c8bef2ea0"
+    },
+    {
+      "number": 3,
+      "category": "video-and-animation",
+      "slug": "fox-svg-loop",
+      "source": "https://x.com/marcthecreatorr/status/2125254550416175477",
+      "author": "https://x.com/marcthecreatorr",
+      "preview": "https://pbs.twimg.com/amplify_video_thumb/2125254332035588096/img/4TLDVUoh4vKvKS63.jpg",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125254332035588096/img/4TLDVUoh4vKvKS63.jpg",
+      "video": "https://x.com/i/videos/tweet/2125254550416175477",
+      "prompt_sha256": null
+    },
+    {
+      "number": 4,
+      "category": "video-and-animation",
+      "slug": "code-synthesized-singing",
+      "source": "https://x.com/chetaslua/status/2125288009990103316",
+      "author": "https://x.com/chetaslua",
+      "preview": "https://pbs.twimg.com/media/HX6KCg-asAA9ATP.jpg",
+      "poster": "https://pbs.twimg.com/media/HX6KCg-asAA9ATP.jpg",
+      "video": "https://x.com/i/videos/tweet/2125288009990103316",
+      "prompt_sha256": null
+    },
+    {
+      "number": 5,
+      "category": "video-and-animation",
+      "slug": "python-observatory",
+      "source": "https://x.com/LeeLinAI123/status/2125403314221142191",
+      "author": "https://x.com/LeeLinAI123",
+      "preview": "https://pbs.twimg.com/amplify_video_thumb/2125402659230265344/img/PksP1BT2REMGbk2Z.jpg",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125402659230265344/img/PksP1BT2REMGbk2Z.jpg",
+      "video": "https://x.com/i/videos/tweet/2125403314221142191",
+      "prompt_sha256": null
+    },
+    {
+      "number": 6,
+      "category": "video-and-animation",
+      "slug": "calligraphy-machine",
+      "source": "https://x.com/lemomo_ai/status/2125250592243155013",
+      "author": "https://x.com/lemomo_ai",
+      "preview": "https://pbs.twimg.com/amplify_video_thumb/2125247132798242816/img/XovoCdPDFXuocPoT.jpg",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125247132798242816/img/XovoCdPDFXuocPoT.jpg",
+      "video": "https://x.com/i/videos/tweet/2125250592243155013",
+      "prompt_sha256": null
+    },
+    {
+      "number": 7,
+      "category": "video-and-animation",
+      "slug": "mechanical-watch",
+      "source": "https://x.com/lucian__03/status/2125364841858953393",
+      "author": "https://x.com/lucian__03",
+      "preview": "https://pbs.twimg.com/amplify_video_thumb/2125300830505185281/img/BsWkDNpHEXS2JW-0.jpg",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125300830505185281/img/BsWkDNpHEXS2JW-0.jpg",
+      "video": "https://x.com/i/videos/tweet/2125364841858953393",
+      "prompt_sha256": null
+    },
+    {
+      "number": 8,
+      "category": "3d-games",
+      "slug": "voxel-sandbox",
+      "source": "https://x.com/intheworldofai/status/2125385407806284196",
+      "author": "https://x.com/intheworldofai",
+      "preview": "https://pbs.twimg.com/amplify_video_thumb/2125385254915457024/img/3e7xp74sz2aOdfMM.jpg",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125385254915457024/img/3e7xp74sz2aOdfMM.jpg",
+      "video": "https://x.com/i/videos/tweet/2125385407806284196",
+      "prompt_sha256": null
+    },
+    {
+      "number": 9,
+      "category": "3d-games",
+      "slug": "threejs-first-person-game",
+      "source": "https://x.com/RezAIT00/status/2125368341002924390",
+      "author": "https://x.com/RezAIT00",
+      "preview": "https://pbs.twimg.com/amplify_video_thumb/2125367649676713984/img/yhj7FLTQjONLAOS3.jpg",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125367649676713984/img/yhj7FLTQjONLAOS3.jpg",
+      "video": "https://x.com/i/videos/tweet/2125368341002924390",
+      "prompt_sha256": null
+    },
+    {
+      "number": 10,
+      "category": "3d-games",
+      "slug": "tower-defense-trailer",
+      "source": "https://x.com/Mr_Salio/status/2125222399809409109",
+      "author": "https://x.com/Mr_Salio",
+      "preview": "https://pbs.twimg.com/amplify_video_thumb/2125222177028886528/img/I6nFGS4mAj0t9-js.jpg",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125222177028886528/img/I6nFGS4mAj0t9-js.jpg",
+      "video": "https://x.com/i/videos/tweet/2125222399809409109",
+      "prompt_sha256": null
+    },
+    {
+      "number": 11,
+      "category": "video-and-animation",
+      "slug": "code-rendered-anime-short",
+      "source": "https://x.com/chetaslua/status/2125331978891461023",
+      "author": "https://x.com/chetaslua",
+      "preview": "https://pbs.twimg.com/media/HX6yAgjbMAANFQv.jpg",
+      "poster": "https://pbs.twimg.com/media/HX6yAgjbMAANFQv.jpg",
+      "video": "https://x.com/i/videos/tweet/2125331978891461023",
+      "prompt_sha256": null
+    },
+    {
+      "number": 12,
+      "category": "video-and-animation",
+      "slug": "icy-mountain",
+      "source": "https://x.com/Mr_Salio/status/2125255537122046339",
+      "author": "https://x.com/Mr_Salio",
+      "preview": "https://pbs.twimg.com/amplify_video_thumb/2125255482025607168/img/DNC99z5ZAQIsXe8u.jpg",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125255482025607168/img/DNC99z5ZAQIsXe8u.jpg",
+      "video": "https://x.com/i/videos/tweet/2125255537122046339",
+      "prompt_sha256": null
+    },
+    {
+      "number": 13,
+      "category": "video-and-animation",
+      "slug": "human-cultures-animation",
+      "source": "https://x.com/ishuagra02/status/2125345032697999523",
+      "author": "https://x.com/ishuagra02",
+      "preview": "https://pbs.twimg.com/amplify_video_thumb/2125339691155390464/img/xrZ2wet6OhXfQ_K2.jpg",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125339691155390464/img/xrZ2wet6OhXfQ_K2.jpg",
+      "video": "https://x.com/i/videos/tweet/2125345032697999523",
+      "prompt_sha256": null
+    },
+    {
+      "number": 14,
+      "category": "video-and-animation",
+      "slug": "capybara-action-short",
+      "source": "https://x.com/anstapnever/status/2125334916305231885",
+      "author": "https://x.com/anstapnever",
+      "preview": "https://pbs.twimg.com/amplify_video_thumb/2125334688239869953/img/h5k6snzvTLrExi9H.jpg",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125334688239869953/img/h5k6snzvTLrExi9H.jpg",
+      "video": "https://x.com/i/videos/tweet/2125334916305231885",
+      "prompt_sha256": "870ed22a65ef926e9bbb8be6b23162eb8a2a4b281fa5dc6ebef90159cf2a7126"
+    },
+    {
+      "number": 15,
+      "category": "video-and-animation",
+      "slug": "pelican-bicycle",
+      "source": "https://x.com/notjazii/status/2125235869716287677",
+      "author": "https://x.com/notjazii",
+      "preview": "https://pbs.twimg.com/amplify_video_thumb/2125235207796391936/img/Zo5usF7ti_qp43G7.jpg",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125235207796391936/img/Zo5usF7ti_qp43G7.jpg",
+      "video": "https://x.com/i/videos/tweet/2125235869716287677",
+      "prompt_sha256": null
+    },
+    {
+      "number": 16,
+      "category": "3d-scenes-and-simulations",
+      "slug": "car-render-comparison",
+      "source": "https://x.com/RezAIT00/status/2125161952263442564",
+      "author": "https://x.com/RezAIT00",
+      "preview": "https://pbs.twimg.com/amplify_video_thumb/2125161720335208448/img/4RZNtFV1pavfIhau.jpg",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125161720335208448/img/4RZNtFV1pavfIhau.jpg",
+      "video": "https://x.com/i/videos/tweet/2125161952263442564",
+      "prompt_sha256": null
+    },
+    {
+      "number": 17,
+      "category": "3d-scenes-and-simulations",
+      "slug": "tokyo-in-one-pass",
+      "source": "https://x.com/RezAIT00/status/2125069082093359527",
+      "author": "https://x.com/RezAIT00",
+      "preview": "https://pbs.twimg.com/amplify_video_thumb/2125069034756390912/img/Xd4l46Ntnl64wbi-.jpg",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125069034756390912/img/Xd4l46Ntnl64wbi-.jpg",
+      "video": "https://x.com/i/videos/tweet/2125069082093359527",
+      "prompt_sha256": null
+    },
+    {
+      "number": 18,
+      "category": "3d-scenes-and-simulations",
+      "slug": "curved-sculptures",
+      "source": "https://x.com/SPAC89/status/2125260198654644288",
+      "author": "https://x.com/SPAC89",
+      "preview": "https://pbs.twimg.com/amplify_video_thumb/2125259834840731648/img/Md7Ba9Zgq8GIsnZD.jpg",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125259834840731648/img/Md7Ba9Zgq8GIsnZD.jpg",
+      "video": "https://x.com/i/videos/tweet/2125260198654644288",
+      "prompt_sha256": null
+    },
+    {
+      "number": 19,
+      "category": "3d-scenes-and-simulations",
+      "slug": "threejs-tank-model",
+      "source": "https://x.com/vib3coded/status/2125313222488252689",
+      "author": "https://x.com/vib3coded",
+      "preview": "https://pbs.twimg.com/amplify_video_thumb/2125312834934358016/img/fPar8AfxDl2aCJ9e.jpg",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125312834934358016/img/fPar8AfxDl2aCJ9e.jpg",
+      "video": "https://x.com/i/videos/tweet/2125313222488252689",
+      "prompt_sha256": null
+    },
+    {
+      "number": 20,
+      "category": "3d-scenes-and-simulations",
+      "slug": "interactive-pirate-ship",
+      "source": "https://x.com/notjazii/status/2125249122685129131",
+      "author": "https://x.com/notjazii",
+      "preview": "https://pbs.twimg.com/amplify_video_thumb/2125248726562439168/img/pA8dK8JgdY1eA_on.jpg",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125248726562439168/img/pA8dK8JgdY1eA_on.jpg",
+      "video": "https://x.com/i/videos/tweet/2125249122685129131",
+      "prompt_sha256": null
+    },
+    {
+      "number": 21,
+      "category": "3d-scenes-and-simulations",
+      "slug": "ship-scene-timing",
+      "source": "https://x.com/pr0mptcat/status/2125301257439170740",
+      "author": "https://x.com/pr0mptcat",
+      "preview": "https://pbs.twimg.com/amplify_video_thumb/2125301145312600064/img/zDcFZz4fe_ZOCaUg.jpg",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125301145312600064/img/zDcFZz4fe_ZOCaUg.jpg",
+      "video": "https://x.com/i/videos/tweet/2125301257439170740",
+      "prompt_sha256": null
+    },
+    {
+      "number": 22,
+      "category": "3d-scenes-and-simulations",
+      "slug": "excavator-simulator",
+      "source": "https://x.com/lucian__03/status/2125410894939111807",
+      "author": "https://x.com/lucian__03",
+      "preview": "https://pbs.twimg.com/amplify_video_thumb/2125318296396599296/img/nsyj91V1XqpkBQnB.jpg",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125318296396599296/img/nsyj91V1XqpkBQnB.jpg",
+      "video": "https://x.com/i/videos/tweet/2125410894939111807",
+      "prompt_sha256": null
+    },
+    {
+      "number": 23,
+      "category": "video-and-animation",
+      "slug": "world-inside-a-watch",
+      "source": "https://x.com/RezAIT00/status/2125285225769164985",
+      "author": "https://x.com/RezAIT00",
+      "preview": "https://pbs.twimg.com/amplify_video_thumb/2125284651417645056/img/euIEhADK6eB7hk2z.jpg",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125284651417645056/img/euIEhADK6eB7hk2z.jpg",
+      "video": "https://x.com/i/videos/tweet/2125285225769164985",
+      "prompt_sha256": null
+    }
+  ]
+}

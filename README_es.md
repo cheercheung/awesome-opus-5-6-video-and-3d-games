@@ -1,198 +1,123 @@
 <div align="center">
 
-<a href="#overview"><img src="images/en.png" alt="Vídeo, animación y juegos 3D con Claude Opus 5.6" width="760"></a>
+<a href="#menu"><img src="images/en.png" alt="Vídeo, animación y juegos 3D con Claude Opus 5.6" width="760"></a>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 
-[![English](https://img.shields.io/badge/English-111111)](README.md)
-[![Español](https://img.shields.io/badge/Espa%C3%B1ol-ffb703)](README_es.md)
-[![Português](https://img.shields.io/badge/Portugu%C3%AAs-2a9d8f)](README_pt.md)
-[![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-52b788)](README_ja.md)
-[![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-4ea8de)](README_ko.md)
-[![Deutsch](https://img.shields.io/badge/Deutsch-f4a261)](README_de.md)
-[![Français](https://img.shields.io/badge/Fran%C3%A7ais-e76f51)](README_fr.md)
-[![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-d62828)](README_tr.md)
-[![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-8338ec)](README_zh-TW.md)
-[![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-ef476f)](README_zh-CN.md)
-[![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-577590)](README_ru.md)
+[![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
+[![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
+[![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md)
+[![🇯🇵 日本語](https://img.shields.io/badge/🇯🇵_日本語-表示-52b788)](README_ja.md)
+[![🇰🇷 한국어](https://img.shields.io/badge/🇰🇷_한국어-보기-4ea8de)](README_ko.md)
+[![🇩🇪 Deutsch](https://img.shields.io/badge/🇩🇪_Deutsch-Ansehen-f4a261)](README_de.md)
+[![🇫🇷 Français](https://img.shields.io/badge/🇫🇷_Français-Voir-e76f51)](README_fr.md)
+[![🇹🇷 Türkçe](https://img.shields.io/badge/🇹🇷_Türkçe-Görüntüle-d62828)](README_tr.md)
+[![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md)
+[![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md)
+[![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
 
 </div>
 
-# Vídeo, animación y juegos 3D con Claude Opus 5.6
+# awesome-opus 5.6 for video and 3d games
+
+<a id="introduction"></a>
 
 ## 🍌 Introducción
 
-Una selección de vídeos, animaciones y juegos 3D hechos con código que la comunidad atribuye a Claude Opus 5.6. Las publicaciones aparecieron durante una prueba limitada.
+Colección independiente de cortos, animaciones y juegos 3D. Las etiquetas distinguen los prompts publicados de las demostraciones. Las publicaciones aparecieron durante una prueba limitada.
 
-<a id="overview"></a>
-
-## 📊 Resumen
-
-**10 casos · 7 ejemplos de vídeo y animación · 3 ejemplos de juegos 3D.**
-
-> [!NOTE]
-> Cada caso indica la fuente, la cuenta, la fecha y las pruebas disponibles. Un vídeo de juego o un tráiler por sí solo no demuestra que se pueda jugar.
+Cada caso indica la fuente, la cuenta, la fecha y las pruebas disponibles. Un vídeo de juego o un tráiler por sí solo no demuestra que se pueda jugar.
 
 <a id="quick-start"></a>
 
 ## ⚡ Inicio rápido
 
-Elige un caso del índice y abre la publicación original para ver el ejemplo y leer el relato de su autor.
+Elige un caso del índice y abre la publicación original para ver el ejemplo y leer el relato de su autor. [Índice](#menu)
 
-[Índice](#menu)
+<a id="news"></a>
+
+## 📰 Novedades
+
+- **2026-11-25** · Migramos a Video Prompt Gallery y ampliamos la selección con fuentes comprobadas.
 
 <a id="menu"></a>
 
 ## 📑 Índice
 
-| Caso | Categoría | Qué muestra | Tipo |
-|---|---|---|---|
-| [The Tea Ride](#case-1) | Vídeo y animación | Observa cómo un corto de Three.js mantiene una escena durante 82 segundos. | Demostración |
-| [Fénix sobre las nubes](#case-2) | Vídeo y animación | Observa cómo se mueve un personaje de gran tamaño en este corto hecho con código. | Demostración |
-| [Comparativa de un bucle SVG con un zorro](#case-3) | Vídeo y animación | Compara en paralelo el movimiento y el cierre del bucle. | Evaluación |
-| [Canto sintetizado por código](#case-4) | Vídeo y animación | Escucha cómo se combinan la voz sintetizada y las imágenes. | Demostración |
-| [Animación de un observatorio en Python](#case-5) | Vídeo y animación | Úsala como ejemplo de animación dibujada fotograma a fotograma en Python. | Demostración |
-| [Máquina de caligrafía](#case-6) | Vídeo y animación | Fíjate en la difusión de la tinta y en el enfoque. | Limitación |
-| [Despiece de un reloj mecánico](#case-7) | Vídeo y animación | Mira cómo se separan y vuelven a unir las piezas. | Demostración |
-| [Mundo de vóxeles en un archivo HTML](#case-8) | Juegos 3D | Observa la iluminación y el movimiento en este mundo de vóxeles. | Demostración |
-| [Juego en primera persona con Three.js](#case-9) | Juegos 3D | Observa el movimiento y la presentación del nivel. | Demostración |
-| [Tráiler de defensa de torres](#case-10) | Juegos 3D | Usa el tráiler para observar la dirección visual. | Demostración |
+- [Introducción](#introduction)
+- [Inicio rápido](#quick-start)
+- [Novedades](#news)
+- [🎬 Vídeo y animación](#video-and-animation) (13)
+- [🎮 Juegos 3D](#3d-games) (3)
+- [🧊 Escenas y simulaciones 3D](#3d-scenes-and-simulations) (7)
+- [Repositorios relacionados](#related-repositories)
+- [Agradecimientos](#acknowledge)
 
-[Resumen](#overview) · [Inicio rápido](#quick-start) · [Repositorios relacionados](#related-repositories) · [Agradecimientos](#acknowledge)
+<a id="video-and-animation"></a>
 
 ## 🎬 Vídeo y animación
 
-<a id="case-1"></a>
-### Caso 1: [The Tea Ride](https://x.com/chetaslua/status/2125253343480275008) (by [@chetaslua](https://x.com/chetaslua))
+<table>
+<tr>
+<td width="33%" valign="top"><a id="case-1"></a><a href="prompts/es/the-tea-ride.md"><img src="https://pbs.twimg.com/media/HX5qW2IaMAAtDJk.jpg" alt="The Tea Ride" width="100%"></a><br><a href="https://x.com/chetaslua/status/2125253343480275008"><b>The Tea Ride</b></a><br><sub><a href="https://x.com/chetaslua">@chetaslua</a> · <a href="prompts/es/the-tea-ride.md">Demostración</a></sub></td>
+<td width="33%" valign="top"><a id="case-2"></a><a href="prompts/es/phoenix-above-the-clouds.md"><img src="https://pbs.twimg.com/media/HX5R33qacAEzyHm.jpg" alt="Fénix sobre las nubes" width="100%"></a><br><a href="https://x.com/chetaslua/status/2125226204764733481"><b>Fénix sobre las nubes</b></a><br><sub><a href="https://x.com/chetaslua">@chetaslua</a> · <a href="prompts/es/phoenix-above-the-clouds.md">Prompt</a></sub></td>
+<td width="33%" valign="top"><a id="case-3"></a><a href="prompts/es/fox-svg-loop.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125254332035588096/img/4TLDVUoh4vKvKS63.jpg" alt="Comparativa de un bucle SVG con un zorro" width="100%"></a><br><a href="https://x.com/marcthecreatorr/status/2125254550416175477"><b>Comparativa de un bucle SVG con un zorro</b></a><br><sub><a href="https://x.com/marcthecreatorr">@marcthecreatorr</a> · <a href="prompts/es/fox-svg-loop.md">Demostración</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a id="case-4"></a><a href="prompts/es/code-synthesized-singing.md"><img src="https://pbs.twimg.com/media/HX6KCg-asAA9ATP.jpg" alt="Canto sintetizado por código" width="100%"></a><br><a href="https://x.com/chetaslua/status/2125288009990103316"><b>Canto sintetizado por código</b></a><br><sub><a href="https://x.com/chetaslua">@chetaslua</a> · <a href="prompts/es/code-synthesized-singing.md">Demostración</a></sub></td>
+<td width="33%" valign="top"><a id="case-5"></a><a href="prompts/es/python-observatory.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125402659230265344/img/PksP1BT2REMGbk2Z.jpg" alt="Animación de un observatorio en Python" width="100%"></a><br><a href="https://x.com/LeeLinAI123/status/2125403314221142191"><b>Animación de un observatorio en Python</b></a><br><sub><a href="https://x.com/LeeLinAI123">@LeeLinAI123</a> · <a href="prompts/es/python-observatory.md">Demostración</a></sub></td>
+<td width="33%" valign="top"><a id="case-6"></a><a href="prompts/es/calligraphy-machine.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125247132798242816/img/XovoCdPDFXuocPoT.jpg" alt="Máquina de caligrafía" width="100%"></a><br><a href="https://x.com/lemomo_ai/status/2125250592243155013"><b>Máquina de caligrafía</b></a><br><sub><a href="https://x.com/lemomo_ai">@lemomo_ai</a> · <a href="prompts/es/calligraphy-machine.md">Demostración</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a id="case-7"></a><a href="prompts/es/mechanical-watch.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125300830505185281/img/BsWkDNpHEXS2JW-0.jpg" alt="Despiece de un reloj mecánico" width="100%"></a><br><a href="https://x.com/lucian__03/status/2125364841858953393"><b>Despiece de un reloj mecánico</b></a><br><sub><a href="https://x.com/lucian__03">@lucian__03</a> · <a href="prompts/es/mechanical-watch.md">Demostración</a></sub></td>
+<td width="33%" valign="top"><a id="case-11"></a><a href="prompts/es/code-rendered-anime-short.md"><img src="https://pbs.twimg.com/media/HX6yAgjbMAANFQv.jpg" alt="Corto de anime hecho con código" width="100%"></a><br><a href="https://x.com/chetaslua/status/2125331978891461023"><b>Corto de anime hecho con código</b></a><br><sub><a href="https://x.com/chetaslua">@chetaslua</a> · <a href="prompts/es/code-rendered-anime-short.md">Demostración</a></sub></td>
+<td width="33%" valign="top"><a id="case-12"></a><a href="prompts/es/icy-mountain.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125255482025607168/img/DNC99z5ZAQIsXe8u.jpg" alt="Escena de montañas heladas" width="100%"></a><br><a href="https://x.com/Mr_Salio/status/2125255537122046339"><b>Escena de montañas heladas</b></a><br><sub><a href="https://x.com/Mr_Salio">@Mr_Salio</a> · <a href="prompts/es/icy-mountain.md">Demostración</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a id="case-13"></a><a href="prompts/es/human-cultures-animation.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125339691155390464/img/xrZ2wet6OhXfQ_K2.jpg" alt="Historia animada de las culturas" width="100%"></a><br><a href="https://x.com/ishuagra02/status/2125345032697999523"><b>Historia animada de las culturas</b></a><br><sub><a href="https://x.com/ishuagra02">@ishuagra02</a> · <a href="prompts/es/human-cultures-animation.md">Demostración</a></sub></td>
+<td width="33%" valign="top"><a id="case-14"></a><a href="prompts/es/capybara-action-short.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125334688239869953/img/h5k6snzvTLrExi9H.jpg" alt="Corto de acción con un capibara" width="100%"></a><br><a href="https://x.com/anstapnever/status/2125334916305231885"><b>Corto de acción con un capibara</b></a><br><sub><a href="https://x.com/anstapnever">@anstapnever</a> · <a href="prompts/es/capybara-action-short.md">Prompt</a></sub></td>
+<td width="33%" valign="top"><a id="case-15"></a><a href="prompts/es/pelican-bicycle.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125235207796391936/img/Zo5usF7ti_qp43G7.jpg" alt="Pelícano en bicicleta" width="100%"></a><br><a href="https://x.com/notjazii/status/2125235869716287677"><b>Pelícano en bicicleta</b></a><br><sub><a href="https://x.com/notjazii">@notjazii</a> · <a href="prompts/es/pelican-bicycle.md">Demostración</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a id="case-23"></a><a href="prompts/es/world-inside-a-watch.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125284651417645056/img/euIEhADK6eB7hk2z.jpg" alt="Un mundo dentro de un reloj" width="100%"></a><br><a href="https://x.com/RezAIT00/status/2125285225769164985"><b>Un mundo dentro de un reloj</b></a><br><sub><a href="https://x.com/RezAIT00">@RezAIT00</a> · <a href="prompts/es/world-inside-a-watch.md">Demostración</a></sub></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
+</tr>
+</table>
 
-**Observa cómo un corto de Three.js mantiene una escena durante 82 segundos.**
-
-La publicación muestra la animación y dice que se hizo sin recursos externos.
-
-**Atribución del modelo:** La cuenta que publicó el ejemplo menciona Opus 5.6. La versión exacta queda por verificar.
-
-Type: Demostración | Date: 2026-11-24
-
----
-
-<a id="case-2"></a>
-### Caso 2: [Fénix sobre las nubes](https://x.com/chetaslua/status/2125226204764733481) (by [@chetaslua](https://x.com/chetaslua))
-
-**Observa cómo se mueve un personaje de gran tamaño en este corto hecho con código.**
-
-La publicación muestra un fénix animado y describe el resultado como código puro.
-
-**Atribución del modelo:** La cuenta que publicó el ejemplo menciona Opus 5.6. La versión exacta queda por verificar.
-
-Type: Demostración | Date: 2026-11-24
-
----
-
-<a id="case-3"></a>
-### Caso 3: [Comparativa de un bucle SVG con un zorro](https://x.com/marcthecreatorr/status/2125254550416175477) (by [@marcthecreatorr](https://x.com/marcthecreatorr))
-
-**Compara en paralelo el movimiento y el cierre del bucle.**
-
-La cuenta dice que ambas versiones recibieron el mismo prompt. El vídeo muestra una sola comparación.
-
-**Atribución del modelo:** La cuenta que publicó el ejemplo menciona Opus 5.6. La versión exacta queda por verificar.
-
-Type: Evaluación | Date: 2026-11-24
-
----
-
-<a id="case-4"></a>
-### Caso 4: [Canto sintetizado por código](https://x.com/chetaslua/status/2125288009990103316) (by [@chetaslua](https://x.com/chetaslua))
-
-**Escucha cómo se combinan la voz sintetizada y las imágenes.**
-
-La cuenta afirma que el audio y lo visual se hicieron con código y que no usó síntesis de texto a voz.
-
-**Atribución del modelo:** La cuenta que publicó el ejemplo menciona Opus 5.6. La versión exacta queda por verificar.
-
-Type: Demostración | Date: 2026-11-24
-
----
-
-<a id="case-5"></a>
-### Caso 5: [Animación de un observatorio en Python](https://x.com/LeeLinAI123/status/2125403314221142191) (by [@LeeLinAI123](https://x.com/LeeLinAI123))
-
-**Úsala como ejemplo de animación dibujada fotograma a fotograma en Python.**
-
-La cuenta dice que Python dibujó todos los fotogramas sin otro modelo de imagen o vídeo.
-
-**Atribución del modelo:** La cuenta que publicó el ejemplo menciona Opus 5.6. La versión exacta queda por verificar.
-
-Type: Demostración | Date: 2026-11-25
-
----
-
-<a id="case-6"></a>
-### Caso 6: [Máquina de caligrafía](https://x.com/lemomo_ai/status/2125250592243155013) (by [@lemomo_ai](https://x.com/lemomo_ai))
-
-**Fíjate en la difusión de la tinta y en el enfoque.**
-
-La cuenta describe un solo intento y señala problemas de enfoque y ausencia de difusión de la tinta.
-
-**Atribución del modelo:** La cuenta que publicó el ejemplo menciona Opus 5.6. La versión exacta queda por verificar.
-
-Type: Limitación | Date: 2026-11-24
-
----
-
-<a id="case-7"></a>
-### Caso 7: [Despiece de un reloj mecánico](https://x.com/lucian__03/status/2125364841858953393) (by [@lucian__03](https://x.com/lucian__03))
-
-**Mira cómo se separan y vuelven a unir las piezas.**
-
-El vídeo muestra engranajes, un mecanismo de resorte y la secuencia de despiece y montaje.
-
-**Atribución del modelo:** La cuenta que publicó el ejemplo menciona Opus 5.6. La versión exacta queda por verificar.
-
-Type: Demostración | Date: 2026-11-24
-
----
+<a id="3d-games"></a>
 
 ## 🎮 Juegos 3D
 
-<a id="case-8"></a>
-### Caso 8: [Mundo de vóxeles en un archivo HTML](https://x.com/intheworldofai/status/2125385407806284196) (by [@intheworldofai](https://x.com/intheworldofai))
+<table>
+<tr>
+<td width="33%" valign="top"><a id="case-8"></a><a href="prompts/es/voxel-sandbox.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125385254915457024/img/3e7xp74sz2aOdfMM.jpg" alt="Mundo de vóxeles en un archivo HTML" width="100%"></a><br><a href="https://x.com/intheworldofai/status/2125385407806284196"><b>Mundo de vóxeles en un archivo HTML</b></a><br><sub><a href="https://x.com/intheworldofai">@intheworldofai</a> · <a href="prompts/es/voxel-sandbox.md">Demostración</a></sub></td>
+<td width="33%" valign="top"><a id="case-9"></a><a href="prompts/es/threejs-first-person-game.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125367649676713984/img/yhj7FLTQjONLAOS3.jpg" alt="Juego en primera persona con Three.js" width="100%"></a><br><a href="https://x.com/RezAIT00/status/2125368341002924390"><b>Juego en primera persona con Three.js</b></a><br><sub><a href="https://x.com/RezAIT00">@RezAIT00</a> · <a href="prompts/es/threejs-first-person-game.md">Demostración</a></sub></td>
+<td width="33%" valign="top"><a id="case-10"></a><a href="prompts/es/tower-defense-trailer.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125222177028886528/img/I6nFGS4mAj0t9-js.jpg" alt="Tráiler de defensa de torres" width="100%"></a><br><a href="https://x.com/Mr_Salio/status/2125222399809409109"><b>Tráiler de defensa de torres</b></a><br><sub><a href="https://x.com/Mr_Salio">@Mr_Salio</a> · <a href="prompts/es/tower-defense-trailer.md">Demostración</a></sub></td>
+</tr>
+</table>
 
-**Observa la iluminación y el movimiento en este mundo de vóxeles.**
+<a id="3d-scenes-and-simulations"></a>
 
-La publicación describe un archivo HTML con varios modos de juego. La evidencia disponible es una grabación.
+## 🧊 Escenas y simulaciones 3D
 
-**Atribución del modelo:** La cuenta que publicó el ejemplo menciona Opus 5.6. La versión exacta queda por verificar.
-
-Type: Demostración | Date: 2026-11-25
-
----
-
-<a id="case-9"></a>
-### Caso 9: [Juego en primera persona con Three.js](https://x.com/RezAIT00/status/2125368341002924390) (by [@RezAIT00](https://x.com/RezAIT00))
-
-**Observa el movimiento y la presentación del nivel.**
-
-La cuenta dice que usó Three.js y tardó tres horas. Queda por verificar si el juego se puede jugar.
-
-**Atribución del modelo:** La cuenta que publicó el ejemplo menciona Opus 5.6. La versión exacta queda por verificar.
-
-Type: Demostración | Date: 2026-11-24
-
----
-
-<a id="case-10"></a>
-### Caso 10: [Tráiler de defensa de torres](https://x.com/Mr_Salio/status/2125222399809409109) (by [@Mr_Salio](https://x.com/Mr_Salio))
-
-**Usa el tráiler para observar la dirección visual.**
-
-La cuenta dice que obtuvo un prototipo jugable con un prompt de 20 palabras. El material vinculado es un tráiler.
-
-**Atribución del modelo:** La cuenta que publicó el ejemplo menciona Opus 5.6. La versión exacta queda por verificar.
-
-Type: Demostración | Date: 2026-11-24
-
----
+<table>
+<tr>
+<td width="33%" valign="top"><a id="case-16"></a><a href="prompts/es/car-render-comparison.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125161720335208448/img/4RZNtFV1pavfIhau.jpg" alt="Comparativa de dos coches en 3D" width="100%"></a><br><a href="https://x.com/RezAIT00/status/2125161952263442564"><b>Comparativa de dos coches en 3D</b></a><br><sub><a href="https://x.com/RezAIT00">@RezAIT00</a> · <a href="prompts/es/car-render-comparison.md">Demostración</a></sub></td>
+<td width="33%" valign="top"><a id="case-17"></a><a href="prompts/es/tokyo-in-one-pass.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125069034756390912/img/Xd4l46Ntnl64wbi-.jpg" alt="Tokio en un solo intento" width="100%"></a><br><a href="https://x.com/RezAIT00/status/2125069082093359527"><b>Tokio en un solo intento</b></a><br><sub><a href="https://x.com/RezAIT00">@RezAIT00</a> · <a href="prompts/es/tokyo-in-one-pass.md">Demostración</a></sub></td>
+<td width="33%" valign="top"><a id="case-18"></a><a href="prompts/es/curved-sculptures.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125259834840731648/img/Md7Ba9Zgq8GIsnZD.jpg" alt="Comparativa de esculturas curvas" width="100%"></a><br><a href="https://x.com/SPAC89/status/2125260198654644288"><b>Comparativa de esculturas curvas</b></a><br><sub><a href="https://x.com/SPAC89">@SPAC89</a> · <a href="prompts/es/curved-sculptures.md">Demostración</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a id="case-19"></a><a href="prompts/es/threejs-tank-model.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125312834934358016/img/fPar8AfxDl2aCJ9e.jpg" alt="Comparativa de modelos de tanque en Three.js" width="100%"></a><br><a href="https://x.com/vib3coded/status/2125313222488252689"><b>Comparativa de modelos de tanque en Three.js</b></a><br><sub><a href="https://x.com/vib3coded">@vib3coded</a> · <a href="prompts/es/threejs-tank-model.md">Demostración</a></sub></td>
+<td width="33%" valign="top"><a id="case-20"></a><a href="prompts/es/interactive-pirate-ship.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125248726562439168/img/pA8dK8JgdY1eA_on.jpg" alt="Barco pirata interactivo" width="100%"></a><br><a href="https://x.com/notjazii/status/2125249122685129131"><b>Barco pirata interactivo</b></a><br><sub><a href="https://x.com/notjazii">@notjazii</a> · <a href="prompts/es/interactive-pirate-ship.md">Demostración</a></sub></td>
+<td width="33%" valign="top"><a id="case-21"></a><a href="prompts/es/ship-scene-timing.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125301145312600064/img/zDcFZz4fe_ZOCaUg.jpg" alt="Tiempos de una escena naval en 3D" width="100%"></a><br><a href="https://x.com/pr0mptcat/status/2125301257439170740"><b>Tiempos de una escena naval en 3D</b></a><br><sub><a href="https://x.com/pr0mptcat">@pr0mptcat</a> · <a href="prompts/es/ship-scene-timing.md">Demostración</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a id="case-22"></a><a href="prompts/es/excavator-simulator.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2125318296396599296/img/nsyj91V1XqpkBQnB.jpg" alt="Simulador de excavadora" width="100%"></a><br><a href="https://x.com/lucian__03/status/2125410894939111807"><b>Simulador de excavadora</b></a><br><sub><a href="https://x.com/lucian__03">@lucian__03</a> · <a href="prompts/es/excavator-simulator.md">Demostración</a></sub></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
+</tr>
+</table>
 
 <a id="related-repositories"></a>
 
@@ -206,6 +131,6 @@ Type: Demostración | Date: 2026-11-24
 
 Gracias a las cuentas que compartieron los ejemplos.
 
-[@chetaslua](https://x.com/chetaslua), [@marcthecreatorr](https://x.com/marcthecreatorr), [@LeeLinAI123](https://x.com/LeeLinAI123), [@lemomo_ai](https://x.com/lemomo_ai), [@lucian__03](https://x.com/lucian__03), [@intheworldofai](https://x.com/intheworldofai), [@RezAIT00](https://x.com/RezAIT00), [@Mr_Salio](https://x.com/Mr_Salio)
+[@chetaslua](https://x.com/chetaslua), [@marcthecreatorr](https://x.com/marcthecreatorr), [@LeeLinAI123](https://x.com/LeeLinAI123), [@lemomo_ai](https://x.com/lemomo_ai), [@lucian__03](https://x.com/lucian__03), [@intheworldofai](https://x.com/intheworldofai), [@RezAIT00](https://x.com/RezAIT00), [@Mr_Salio](https://x.com/Mr_Salio), [@ishuagra02](https://x.com/ishuagra02), [@anstapnever](https://x.com/anstapnever), [@notjazii](https://x.com/notjazii), [@SPAC89](https://x.com/SPAC89), [@vib3coded](https://x.com/vib3coded), [@pr0mptcat](https://x.com/pr0mptcat)
 
 Abre una incidencia para corregir una atribución o solicitar la retirada de un caso.
